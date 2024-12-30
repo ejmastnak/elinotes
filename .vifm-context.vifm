@@ -1,0 +1,2 @@
+let $VIFM_CONTEXT = expand('%d')
+source $VIFM/navigation/hugo.vifm

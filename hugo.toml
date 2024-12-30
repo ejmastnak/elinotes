@@ -1,0 +1,5 @@
+baseURL = 'https://notes.ejmastnak.com/'
+languageCode = 'en-us'
+title = 'Eli Notes'
+
+disableKinds = ['taxonomy', 'term']

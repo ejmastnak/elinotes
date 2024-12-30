@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "name": "Start Hugo server",
+      "cmd": "hugo serve",
+      "tags": ["serve"],
+      "count": 1
+    },
+    {
+      "name": "Open web browser at project root",
+      "cmd": "xdg-open http://localhost:1313/ && sleep 1",
+      "tags": ["view"],
+      "count": 2
+    },
+    {
+      "name": "Compile Tailwind CSS",
+      "cmd": "npm run compile-tailwind",
+      "tags": ["compile"],
+      "count": 3
+    }
+  ]
+}
+
