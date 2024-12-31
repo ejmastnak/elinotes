@@ -8,8 +8,8 @@ description: Roadmap for developing Found My Phone?
 
 ## Week 1: MVP image generation
 
-- Decide info needed to generate a screen saver
-- Determine appropriate tool for automated command-line screensaver generation
+- Decide info needed for on screen saver (e.g. name, email, backup contact phone)
+- Research and determine appropriate tool for automated command-line screensaver generation (ImageMagick, Pillow, etc.)
 - MWE: generate PNG of given geometry with given colored background
 - MWE: add text "Hello world" text placed in specific location, say offset 100 px from top and centered.
 - MWE: add rectangle with colored border, background, and rounded corners
@@ -20,26 +20,27 @@ description: Roadmap for developing Found My Phone?
   - OS
   - Screen resolution
   - Safe area
-- Shell script that generates a screen saver given screen_x, screen_y, safe_t, safe_b
+- Create script to generate an app lock screen with appropriate dimensions given contact info and phone dimensions.
 
 ## Week 2: MVP web app
 
-- Create specification and documentation for app following standard Laravel recipe
-- Write app following standard Laravel recipe, implementing all features in specification
+- Create specification and documentation for app following standard Laravel recipe (plan database structure, auth policies, backend/frontend requests, validation, routing, controllers and services, structure of frontend pages, etc;)
+- Implement app following specification
+
+## Week 3: Learn analytics
+
 - Deploy app
-
-## Week 3: Analytics
-
-- Track page views with e.g. Plausible
-- Laravel-log people using download form
+- Learn to and document tracking page views with e.g. Plausible
+- Learn to Laravel-log use of download form
 - Track number of people visiting page vs. actually using the download form
 
 ## Week 4: Feedback
 
-What features do people want?
+Show the app around. What works, what doesn't? what features do people want? E.g.
 
 - Custom colors
 - Different languages
 - Custom text
-- Custom background image
-- Remove didyoufindmyphone.com, etc.
+- Custom background image, etc.
+
+Iterate as necessary.
