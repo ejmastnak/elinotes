@@ -8,5 +8,5 @@ description: Roadmaps for various projects I'm working on
 
 Here are roadmaps for various projects I'm working on:
 
-- [Gaia](/notes/gaia/)
-- [Found My Phone?](/notes/foundmyphone/)
+- [Gaia](/roadmaps/gaia/)
+- [Found My Phone?](/roadmaps/foundmyphone/)

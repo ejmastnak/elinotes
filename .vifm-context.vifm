@@ -1,2 +1,5 @@
 let $VIFM_CONTEXT = expand('%d')
 source $VIFM/navigation/hugo.vifm
+
+nnoremap ;cr :cd $VIFM_CONTEXT/content/roadmaps<CR>
+
