@@ -10,3 +10,4 @@ Here are roadmaps for various projects I'm working on:
 
 - [Gaia](/roadmaps/gaia/)
 - [Found My Phone?](/roadmaps/foundmyphone/)
+- [Sensemotion](/roadmaps/sensemotion/)
