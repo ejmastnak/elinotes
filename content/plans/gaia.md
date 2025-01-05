@@ -73,7 +73,7 @@ Use e.g. stock images until you have images of Gaia products.
 
 ## Week 5: Financials
 
-- Switch to konti used by Slovene Accounting Standards: find authoritative source for konti; document konti relevant to Gaia; update accounts in books to use konti.
+- Switch to konti used by Slovene Accounting Standards (SRS): find authoritative source for konti; map each current Gaia account to a SRS kont; update accounts in books to use konti.
 - Learn and document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
 - Learn to prepare DOD-DDPO (end of year report submitted to FURS); document.
 - Correct accounting of small items selling transactions (e.g. resolve abuse of COGS) and document correct bookkeeping recipe.

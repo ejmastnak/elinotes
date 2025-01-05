@@ -25,13 +25,6 @@
         </a>
       </li>
 
-      <!-- Roadmaps -->
-      <li class="hidden sm:block">
-        <a class="text-gray-500 dark:text-gray-400 hover:underline hover:text-sky-600 {{ if eq $currentPage.Title "Roadmaps" }}font-medium text-gray-900 dark:text-gray-200{{ end }}"href="/roadmaps">
-          Roadmaps
-        </a>
-      </li>
-
       <li class="!ml-2 xss:!ml-auto sm:hidden">
         {{ partial "hamburger.html" . }}
       </li>
@@ -42,11 +35,6 @@
           <!-- Home -->
           <a class="inline-block text-gray-500 dark:text-gray-400 hover:underline hover:text-sky-600 {{ if eq $currentPage.Title "Home" }}font-medium text-gray-900 dark:text-gray-200{{ end }}"href="/">
             Home
-          </a>
-
-          <!-- Roadmaps -->
-          <a class="inline-block text-gray-500 dark:text-gray-400 hover:underline hover:text-sky-600 {{ if eq $currentPage.Title "Roadmaps" }}font-medium text-gray-900 dark:text-gray-200{{ end }}"href="/roadmaps">
-            Roadmaps
           </a>
 
         </div>
