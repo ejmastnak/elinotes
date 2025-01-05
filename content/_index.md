@@ -10,4 +10,5 @@ Here are roadmaps and plans for various projects I'm working on:
 
 - [Gaia](/plans/gaia/)
 - [Found My Phone?](/plans/foundmyphone/)
-- [Sensemotion](/plans/sensemotion/)
+- [TV47](/plans/tv47/)
+- [Sensemotion](/plans/sensemotion/) (complete)
