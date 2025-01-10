@@ -55,7 +55,7 @@ Finalize LabelProfi inquiry:
 - Visit LabelProfi for consulatation
 - Send off order
 
-## Week 4: Website
+## Week 4a: Website MWE
 
 Stack: Vue.js, Tailwind
 
@@ -67,30 +67,66 @@ Internationalization: Learn to, document recipies for, and implement:
 - Adjust route names to match current locale
 - Update URLs in link components to match current locale
 
-Website: create MWE website with a Home, About, Products, Where to buy, and Contact page; and Product sub-pages for JabSok, JabKis, SntOlj.
-Use BioBrdo for inspiration as applicable.
-Use e.g. stock images until you have images of Gaia products.
+Create a minimal working example website with:
 
-## Week 5: Financials
+- Home, About, Products, Where to buy, and Contact pages; and Product sub-pages for JabSok, JabKis, SntOlj.
+- Working internationalization and routing
+- Finalized design (colors, fonts, layout, etc)
+- Placeholder content is fine (e.g. solid color rectangles as image placeholders until you have images of Gaia products, Lorem Ipsum content for text until you have text content ready)
 
-- Switch to konti used by Slovene Accounting Standards (SRS): find authoritative source for konti; map each current Gaia account to a SRS kont; update accounts in books to use konti.
-- Learn and document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
-- Learn to prepare DOD-DDPO (end of year report submitted to FURS); document.
+## Week 4a: Website content (text and images)
+
+Write text content for Home, About, Products, Where to buy, and Contact pages; and Product sub-pages for JabSok, JabKis, SntOlj.
+
+Create Slovene translations for all English text.
+
+Prepare images for website (take yourself or collect from existing files):
+
+- Individual pictures of labeled products: JabSok, JabKis, SntOlj
+- Spread of all products on a dark background for website cover image
+- Various landscape photos: meadows, fall leaves, apple blossoms, snow, sunsets, forest, etc.
+- Various production photos: apples in wood crates, kis cisterns in štala, pressing barrel, preša, etc.
+
+Publish website:
+
+- Acquire ownership of gaia.si (research Slovene DNS providers, create an account somewhere, visit Dominik and hopefully amicably arrange ownership transfer)
+- Get read/write access to DNS records for gaia.si
+- Transfer gaia.si nameservers and DNS records to Cloudflare in preparation for publishing on Cloudflare pages
+- Ensure site assets (fonts, images, CSS is properly bundled with app for production)
+- Publish website on Cloudflare
+- Point gaia.si to new website
+
+## Week 6a: Financials (legal research)
+
+Answer questions:
+
+- What are the legal requirements for the direktor of a d.o.o. (do they have to be paying prispevki? can it be an s.p.?)
+- Clearly enumerate all obligations of a micro d.o.o. like Gaia (e.g. quarterly DDV reports and payments; end-of-year financial reports; keeping books)
+- Requirements for bookkeeping (any required format for transactions or account names; certification requirements for bookkeeping software, etc.)
+- Requirements for legally accepting cash as payment (akt o blagajniškem poslovanju; acquiring digitalno potrdilo; protocol and relevant davčna blagajna software/hardware for selling products for cash in accordance with `Pravilnik o izvajanju Zakona o davčnem potrjevanju računov`; protocol for depositing cash at bank; etc.)
+- Find authoritative source for konti used by Slovene Accounting Standards (SRS)
+
+## Week 6b: Financials (preparing for sales to consumers)
+
+- Acquire digitalno potrdilo za pošiljanje računov v davčno potrjevanje
+- Draft and sign an `Akt o blagajniškem poslovanju` for Gaia (enumerate points of sale, authorized salespeople, which products may be sold for cash, which points of sale accept cash; determine how much cash can be held at a given time; determine how regularly cash must be deposited at bank)
+- Set up and learn to use davčna blagajna software
+- Acquire a receipt printer and learn to use; or otherwise solve workflow of giving customers a copy of receipt
+- As an alternate option, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
+
+## Week 6c: Finalize (bookkeeping and accounting)
+
+Bookkeeping:
+
+- Switch books to konti used by Slovene Accounting Standards (SRS): map each current Gaia account to an appropriate SRS kont; update accounts in books to use konti.
 - Correct accounting of small items selling transactions (e.g. resolve abuse of COGS) and document correct bookkeeping recipe.
 - Open inventory bookkeeping.
-- Resolve rules governing sale of small items to fizične osebe: do you need an official POS terminal? Can you just use davčna blagajna receipts (where do you buy them)? Can you accept cash?What is the proper bookkeeping and reporting (i.e. to FURS) protocol in each case?
 
-## Week 6: Photography
+Accounting:
 
-Learn to use a manual DSLR camera (in preparation for taking photos for Gaia website).
-
-- Grok effects of:
-  - Aperture
-  - Shutter speed
-  - ISO
-- Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)
-- Prepare list of photographs to take for Gaia website;  
-  prototype as necessary on e.g. iPhone camera, then take on DSLR camera.
+- Formally document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
+- Formally document protocol for paying DOD-DDPO (end of year report submitted to FURS), and recipe for recording the transactions in your books.
+- Formally document protocol for preparing and submitting end of year financial reports
 
 ## Week 7: Product R&D
 
@@ -98,3 +134,11 @@ Learn to use a manual DSLR camera (in preparation for taking photos for Gaia web
 - Soap: create soaps as per recipes, label each batch in preparation for future reflections, set to cure.
 - Burts: create recipes (varying ratios of liquid fat, solid fat, and bee's wax) to test.
 -  Burts: create burts as per recipes, label each batch in preparation for reflections. Iterate.
+
+## Side quest: Photography
+
+Learn to use a manual DSLR camera (in preparation for taking photos for Gaia website):
+
+- Grok effects of: aperture, shutter speed, and ISO
+- Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)
+- Retake all production Gaia images on a DSLR
