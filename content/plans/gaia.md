@@ -118,8 +118,11 @@ Answer questions:
 
 Bookkeeping:
 
-- Switch books to konti used by Slovene Accounting Standards (SRS): map each current Gaia account to an appropriate SRS kont; update accounts in books to use konti.
-- Correct accounting of small items selling transactions (e.g. resolve abuse of COGS) and document correct bookkeeping recipe.
+- Map each current Gaia account to an appropriate account used by Slovene Accounting Standards (SRS)
+- Update books so that all accounts are SRS-approved accounts
+- Go through books and enumerate common transactions (e.g. paying for services, paying for goods, invoicing for software development, invoicing for physical goods, etc)
+- Document correct bookkeeping recipe for each transaction.
+  In particular correct accounting of small items selling transactions (e.g. resolve abuse of COGS)
 - Open inventory bookkeeping.
 
 Accounting:
