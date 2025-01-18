@@ -6,7 +6,7 @@ description: The home page of the website
 
 # Home
 
-Here are roadmaps and plans for a few projects I'm working on:
+Roadmaps and plans for a few projects I'm working on:
 
 - [Gaia](/plans/gaia/)
 - [Found My Phone?](/plans/foundmyphone/)
