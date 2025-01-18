@@ -4,7 +4,7 @@
     {{ .Content }}
   </main>
   {{ if not .Params.hideToc }}
-  <aside class="hidden md:block sticky top-3 translate-x-5 lg:translate-x-12 bg-sky-50 rounded shrink-0 !w-[250px] h-fit max-h-[90vh] overflow-y-auto z-10">
+  <aside class="hidden md:block sticky top-3 translate-x-5 lg:translate-x-12 bg-sky-50 rounded-lg shrink-0 !w-[250px] h-fit max-h-[90vh] overflow-y-auto z-10">
     <p class="px-4 pt-2 text-lg font-semibold text-gray-800">Contents</p>
     <div class="-mt-2 prose ">
       {{ .TableOfContents }}
