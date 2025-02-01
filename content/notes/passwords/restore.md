@@ -79,10 +79,11 @@ For import and PEM passphrases see `identity/SIGEN-CA-README.md`
 # Decrypt SSH directory
 gpg --decrypt --recipient 9CADDE97 --output ssh.tar.gz ssh.tar.gz.gpg
 
-# Extract SSH directory
-tar -xf ssh.tar.gz ssh.tar.gz
+# Extract SSH directory to current directory.
+# (Should create a `.ssh` directory in the current directory.)
+tar -xf ssh.tar.gz ./
 ```
 
-Move the extracted SSH directory to `~/.ssh`.
+Move the extracted `.ssh` directory to `~/.ssh`.
 
 You'll need the passwords to the SSH keys to use them; the passwords are in the password store.

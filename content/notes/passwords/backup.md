@@ -6,7 +6,6 @@ description: Protocol for backing up my passwords
 
 # Password backup protocol
 
-
 **The goal:** back up my password store and `pass` private key in an encrypted form that can later be used with my password recovery protocol.
 [Password management homepage](/notes/passwords/passwords).
 
@@ -45,12 +44,71 @@ Copy `~/.password-store` to the USB drive meant to hold my passwords.
 
 ```bash
 # Create an archive of your SSH directory
-tar -czf ssh.tar.gz .ssh
+tar -czf ssh.tar.gz --directory="${HOME}" .ssh
 
 # Encrypt SSH directory with public key encryption.
 # Pass ID of your pass master key (or whatever key pair you want to use for encryption/decryption).
 # Produces ssh.tar.gz.gpg
 gpg --encrypt --recipient 9CADDE97 ssh.tar.gz
+
+# To "safely" remove unencrypted SSH archive
+shred -u ssh.tar.gz
 ```
 
 Copy `ssh.tar.gz.gpg` to the USB drive meant to hold my passwords.
+
+## Script automating the above
+
+Here is a Bash script automating the above process:
+
+```bash
+#!/usr/bin/env bash
+
+# NAME
+#     backup-passwords - Backs up passwords to destination directory
+# 
+# SYNOPSIS
+#     backup-passwords destination
+#
+# DESCRIPTION
+#     Backs up passwords to the given destination directory; in practice to a
+#     USB drive, so `destination` might look like `/run/media/ej/Sandisk/`.
+#     The script will create a nested backup folder *inside* the given
+#     destiation directory, e.g. `/run/media/ej/Sandisk/pass` in above example.
+
+if [ "$#" -ne 1 ]; then
+  echo "Error: no destination directory provided. Aborting."
+  echo "Usage: ${0} destination" >&2
+  exit 1
+fi
+
+DESTINATION="${1}"
+
+if [[ ! -d "${DESTINATION}" ]]; then
+  echo "Error: destination directory is not writable. Aborting."
+  exit 1
+fi
+
+GPG_ID="82EAE28EEFC1D4BE5FB69B9369F7FCEB9CADDE97"
+PASSWORD_STORE="${HOME}/.password-store"
+SSH_BASENAME=".ssh"
+SSH_TMP_GZ="${HOME}/tmp/ssh.tar.gz"
+DESTINATION="${DESTINATION}/pass"
+
+set -e
+
+mkdir -p "${DESTINATION}"
+date > "${DESTINATION}/backup-date.txt"
+
+echo "Exporting private key..."
+gpg --export-secret-key ${GPG_ID} > "${DESTINATION}/private.key"
+
+echo "Copying password store..."
+cp -r "${PASSWORD_STORE}" "${DESTINATION}/password-store"
+
+echo "Copying SSH directory..."
+tar -czf "${SSH_TMP_GZ}" --directory="${HOME}" "${SSH_BASENAME}"
+gpg --encrypt --recipient ${GPG_ID} "${SSH_TMP_GZ}"
+mv -f "${SSH_TMP_GZ}.gpg" "${DESTINATION}"
+shred -u "${SSH_TMP_GZ}"
+```
