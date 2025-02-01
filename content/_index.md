@@ -12,3 +12,5 @@ Roadmaps and plans for a few projects I'm working on:
 - [Found My Phone?](/plans/foundmyphone/)
 - [TV47](/plans/tv47/)
 - [Sensemotion](/plans/sensemotion/) (complete)
+
+[Notes on password management](/notes/passwords/passwords)
