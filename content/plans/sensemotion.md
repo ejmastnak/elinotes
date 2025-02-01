@@ -2,6 +2,7 @@
 title: Sensemotion
 date: 2024-12-31
 description: Roadmap for Sensemotion (MC sound modulation project at TMG)
+toc: true
 ---
 
 # Sensemotion

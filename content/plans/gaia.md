@@ -2,6 +2,7 @@
 title: Gaia
 date: 2024-12-29
 description: Roadmap for developing Gaia
+toc: true
 ---
 
 # Gaia
@@ -55,7 +56,7 @@ Finalize LabelProfi inquiry:
 - Visit LabelProfi for consulatation
 - Send off order
 
-## Week 4a: Website MWE
+## Week 4: Website MWE
 
 Stack: Vue.js, Tailwind
 
@@ -74,7 +75,7 @@ Create a minimal working example website with:
 - Finalized design (colors, fonts, layout, etc)
 - Placeholder content is fine (e.g. solid color rectangles as image placeholders until you have images of Gaia products, Lorem Ipsum content for text until you have text content ready)
 
-## Week 4a: Website content (text and images)
+## Week 5: Website content (text and images)
 
 Write text content for Home, About, Products, Where to buy, and Contact pages; and Product sub-pages for JabSok, JabKis, SntOlj.
 
@@ -112,9 +113,8 @@ Answer questions:
 - Draft and sign an `Akt o blagajniškem poslovanju` for Gaia (enumerate points of sale, authorized salespeople, which products may be sold for cash, which points of sale accept cash; determine how much cash can be held at a given time; determine how regularly cash must be deposited at bank)
 - Set up and learn to use davčna blagajna software
 - Acquire a receipt printer and learn to use; or otherwise solve workflow of giving customers a copy of receipt
-- As an alternate option, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
 
-## Week 6c: Finalize (bookkeeping and accounting)
+## Week 6c: Financials (bookkeeping and accounting)
 
 Bookkeeping:
 
@@ -131,7 +131,13 @@ Accounting:
 - Formally document protocol for paying DOD-DDPO (end of year report submitted to FURS), and recipe for recording the transactions in your books.
 - Formally document protocol for preparing and submitting end of year financial reports
 
-## Week 7: Product R&D
+## Week 6d: Financials: compliant bookkeeping software
+
+Acquire or set up bookkeeping software in compliance with SRS and ZDavP člen 38.
+
+Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping SaaS, or see if you can find a solution by combining plain-text accounting with immutable audit logs or append-only ledger tables.
+
+## Side quest: Product R&D
 
 - Soap: create molds, purchase thermometer, prepare recipes.
 - Soap: create soaps as per recipes, label each batch in preparation for future reflections, set to cure.
@@ -145,3 +151,8 @@ Learn to use a manual DSLR camera (in preparation for taking photos for Gaia web
 - Grok effects of: aperture, shutter speed, and ISO
 - Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)
 - Retake all production Gaia images on a DSLR
+
+## Side quest: supplementary web apps
+
+- As a supplementary option to davčna blagajna računi, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
+- Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order)

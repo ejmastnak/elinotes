@@ -2,6 +2,7 @@
 title: Found My Phone?
 date: 2024-12-29
 description: Roadmap for developing Found My Phone?
+toc: true
 ---
 
 # Found My Phone?
