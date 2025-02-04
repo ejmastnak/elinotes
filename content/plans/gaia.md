@@ -101,37 +101,42 @@ Publish website:
 
 Answer questions:
 
-- What are the legal requirements for the direktor of a d.o.o. (do they have to be paying prispevki? can it be an s.p.?)
-- Clearly enumerate all obligations of a micro d.o.o. like Gaia (e.g. quarterly DDV reports and payments; end-of-year financial reports; keeping books)
+- What are the legal requirements for the direktor of a d.o.o. (do they have to be paying prispevki? Can the direktor be an s.p.?)
+- Clearly enumerate all obligations of a micro d.o.o. like Gaia (e.g. quarterly DDV reports and payments; end-of-year financial reports; keeping books in accordance with SRS, etc.)
 - Requirements for bookkeeping (any required format for transactions or account names; certification requirements for bookkeeping software, etc.)
 - Requirements for legally accepting cash as payment (akt o blagajniškem poslovanju; acquiring digitalno potrdilo; protocol and relevant davčna blagajna software/hardware for selling products for cash in accordance with `Pravilnik o izvajanju Zakona o davčnem potrjevanju računov`; protocol for depositing cash at bank; etc.)
 - Find authoritative source for konti used by Slovene Accounting Standards (SRS)
 
-## Week 6b: Financials (preparing for sales to consumers)
+## Week 6b: Financials (bookkeeping)
+
+- Map each current Gaia account to an appropriate account used by Slovene Accounting Standards (SRS)
+- Go through books and enumerate common transactions (e.g. paying for services, paying for goods, invoicing for software development, invoicing for physical goods, etc)
+- Document correct bookkeeping recipe for each transaction in accordance with SRS.
+- Work through proper SRS accounting workflow of a full lifecycle for e.g. JabSok, from purchasing empty bottles to closing books with end-of-year sales revenue.
+- Update books so that all transactions use SRS-compliant accounts and bookkeeping workflows.
+
+## Week 6c: Financials (davčna blagajna)
 
 - Acquire digitalno potrdilo za pošiljanje računov v davčno potrjevanje
 - Draft and sign an `Akt o blagajniškem poslovanju` for Gaia (enumerate points of sale, authorized salespeople, which products may be sold for cash, which points of sale accept cash; determine how much cash can be held at a given time; determine how regularly cash must be deposited at bank)
 - Set up and learn to use davčna blagajna software
 - Acquire a receipt printer and learn to use; or otherwise solve workflow of giving customers a copy of receipt
 
-## Week 6c: Financials (bookkeeping and accounting)
-
-Bookkeeping:
-
-- Map each current Gaia account to an appropriate account used by Slovene Accounting Standards (SRS)
-- Update books so that all accounts are SRS-approved accounts
-- Go through books and enumerate common transactions (e.g. paying for services, paying for goods, invoicing for software development, invoicing for physical goods, etc)
-- Document correct bookkeeping recipe for each transaction.
-  In particular correct accounting of small items selling transactions (e.g. resolve abuse of COGS)
-- Open inventory bookkeeping.
-
-Accounting:
+## Week 6d: Financials (taxes and financial reports)
 
 - Formally document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
 - Formally document protocol for paying DOD-DDPO (end of year report submitted to FURS), and recipe for recording the transactions in your books.
-- Formally document protocol for preparing and submitting end of year financial reports
+- Clearly enumerate all required end-of-year financial statements (balance sheet, income statement, etc.), their deadlines, and to which government agencies they must be submitted
+- Document recipes for preparing and submitting each required financial statement
 
-## Week 6d: Financials: compliant bookkeeping software
+## Week 6e: Inventory bookkeeping
+
+- Clearly enumerate which inventory items must be kept track of in a dedicated inventory ledger to be compliant with SRS
+- Document SRS-compliant format of inventory ledgers
+- Take physical inventory of required items
+- Based on results of inventory-taking, create inventory ledgers for required items
+
+## Week 6f: Financials: compliant bookkeeping software
 
 Acquire or set up bookkeeping software in compliance with SRS and ZDavP člen 38.
 
