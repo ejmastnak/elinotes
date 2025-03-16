@@ -33,8 +33,8 @@ toc: true
 
 Convert labels from Inkscape to Scribus:
 
-- JabSok330 
-- JabSok750 
+- JabSok330
+- JabSok750
 - JabKis500
 - BzgKis500
 - SntOlj100
@@ -124,10 +124,16 @@ Answer questions:
 
 ## Week 6d: Financials (taxes and financial reports)
 
-- Formally document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
-- Formally document protocol for paying DOD-DDPO (end of year report submitted to FURS), and recipe for recording the transactions in your books.
+- Document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
+- Create script to programatically generate a DDV report from journal entries for a given date range
 - Clearly enumerate all required end-of-year financial statements (balance sheet, income statement, etc.), their deadlines, and to which government agencies they must be submitted
-- Document recipes for preparing and submitting each required financial statement
+- Find official sources for structure of each financial report
+- Document recipe for closing books in accordance with SRS at the end of each accounting period.
+- Document recipe for preparing balance sheet and income statement from journal entries.
+- Create script to programatically generate a balance sheet from journal entries for a given point in time.
+- Create script to programatically generate an income statement from journal entries for a given date range.
+- Document recipes for submitting financial statments (website to visit, authentication process, etc.)
+- Document protocol for calculating paying DOD-DDPO (end of year report submitted to FURS)
 
 ## Week 6e: Inventory bookkeeping
 
@@ -161,3 +167,14 @@ Learn to use a manual DSLR camera (in preparation for taking photos for Gaia web
 
 - As a supplementary option to davčna blagajna računi, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
 - Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order)
+
+## Side quest: administrative tasks
+
+- Move hosting of Gaia webmail from Dominik to a host you do business with directly
+- Call up Delovska Hranilnica and cancel mobile banking subscription
+- Update GS1 contact information to email/phone I control
+- Regain access to A1 account, and switch contact information to email/phone I control
+- Switch A1 internet/phone plan to something more economical
+- Resolve renting a POS terminal to allow credit card payments
+- Cancel GS1 EAN code contract
+- Resolve AJPES contact info
