@@ -148,6 +148,26 @@ Acquire or set up bookkeeping software in compliance with SRS and ZDavP člen 38
 
 Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping SaaS, or see if you can find a solution by combining plain-text accounting with immutable audit logs or append-only ledger tables.
 
+## Side quest: Warehouse and Inventory
+
+- Arrange basement so family reserves of pickles/preserves/drinks/Gaia products set aside for home use etc. are in a separate part of the basement from Gaia inventory.
+- JabSok: have a workable, organized, clean JabSok setup.
+  Store JabSok bottles in crates with a well-known, fixed number of bottles per crate, for easy inventory.
+  - Assemble enough plastic crates to store cca 1000 JabSok330 bottles.
+  - Build enough wooden crates for cca 1000 bottles of JabSok750. Crates should be solid enough to comfortably carry cca 25 kg of bottles, and modularly stackable to e.g. 4 levels high.
+  - Set up an inventory system to keep track of lot number and number of bottles in each crate, e.g. dedicated notecards, markers, and thumbtacks in basement that can be attached to crates.
+  - Clean JabSok bottles of dust/evaporated fruit juice, place in crates, label crates with quantity and lot number. Do this sproti, a gajbica at a time, until suddenly all the JabSok is clean and labeled and inventoried.
+- JabKis: Have a workable, clean JabKis setup.
+  - Test each of the three cisterns, record differences.
+  - Pressure wash and sweep out štala floor of dust, mold, etc.
+  - Pressure wash empty cisterns.
+    Perhaps transfer existing JabKis to cleaned empty cisterns and clean out previously-full cisterns, too.
+  - Have a pumping workflow "that works", even just filling 5-liter jugs a crate at a time.
+  - Have e.g. 50-100 liters in manageable quantities ready to go at any given time in MiniŠtala on metals shelves
+
+Have IBCs and kisarna nice and clean, have basement organized with nice stacks of gajbicas, have the facilities nice and presentable for visits.
+
+
 ## Side quest: Product R&D
 
 - Soap: create molds, purchase thermometer, prepare recipes.
