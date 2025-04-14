@@ -10,6 +10,7 @@ toc: false
 What to do for Gaia in Slovenia before May 2025 USA trip
 
 - Gaia direktorstvo resolved — transferred to a Mastnak without obligation to pay prispevki
+- 2025 Q1 DDV-O
 - WWW Travniski sadovnjak
 - WWW Sorte jablan
 - WWW "kid (family) trying to make a business happen" story
