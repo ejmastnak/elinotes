@@ -26,4 +26,3 @@ What to do for Gaia in Slovenia before May 2025 USA trip
   - label crates with UIDs
   - workflow for delabeling returned bottles
   - workflow for cleaning returned bottles and storing for future use
-- Gaia mail moved to a host I control
