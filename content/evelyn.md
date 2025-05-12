@@ -17,7 +17,8 @@ toc: true
 
 ### Tomaž office
 
-- Remove bookshelves
+- Empty bookshelves to e.g. library
+- Remove bookshelves (sell/free stuff)
 - Empty closet
 - Resolve closet light
 - iMacs: back up, wipe, sell
@@ -83,16 +84,27 @@ toc: true
 
 ## Sell/Dump/Free stuff
 
-### Sell
+### Sell or free stuff
 
 - iMacs
 - Tomaž office bookshelves
+- Tomaž office desk
+- Outdoor back patio desk
 - Master bedroom rug
-
-### Free stuff
-
-- 
+- Library puzzle table
+- Kitchen room round table
+- Dining room bench
+- Library sink
+- Trampoline
+- Martin room desk
+- Martin room bookshelves
+- Garage shelves
+- Mom office desk
 
 ### Dump
 
 - Tomaž office lamp
+- E-waste
+- Medical waste
+- Batteries
+- Light bulbs
