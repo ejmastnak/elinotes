@@ -79,8 +79,12 @@ toc: true
 - Pencil jar and notebook station in upstairs and downstairs
 - Cardboard box supply station
 - Loose coins jar
+
+**Dump boxes:**
+
 - E-waste dump box
 - Medical waste dump box
+- Goodwill clothes
 
 ## Sell/Dump/Free stuff
 
@@ -108,3 +112,4 @@ toc: true
 - Medical waste
 - Batteries
 - Light bulbs
+- Clothes
