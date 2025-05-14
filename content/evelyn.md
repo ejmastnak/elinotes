@@ -117,3 +117,30 @@ toc: true
 - Batteries
 - Light bulbs
 - Clothes
+
+## Tasks by day
+
+### 2025-05-13
+
+- ~~Unlock iMacs and get USB drives~~
+- ~~Exercise room shelves~~
+- ~~Put away CDs~~
+- ~~Sitting room table to library~~
+- ~~Research garage doors (Marantec Residential Garage Door Opener Series Q-7500) (Models: M-4500, M-4700 Q-7500, Q-7700, Q-7900)~~
+- Take down garage shelves
+- ~~Prepare dump boxes for: e-waste, medical waste, goodwill clothes~~
+
+### 2025-05-14
+
+- Empty Tomaž office closet contents into newly-inaugurated e-waste and medical DumpBoxes.
+  And create new dump boxes as needed.
+- Ironing board resolved.
+- Back iMac contents to USB drives and label drives.
+- Empty Eli closet to clothes DumpBox
+- Evaluate exercise room closet shelves for oiling.
+  Decide on organizing exercise room equipment into newly cleaned shelves.
+- Initiate family CD cleaning up
+- Do a full evaluation and TODO on library
+- Battery DumpBox
+- Office supplies DumpBox
+- Investigate power supply to garage door transmitter
