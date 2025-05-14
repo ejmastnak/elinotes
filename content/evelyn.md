@@ -11,14 +11,15 @@ toc: true
 
 ### Attic
 
-- Empty residual construction materials
-- Stack doors
-- Stack trim
+- ~~Empty residual construction materials~~
+- ~~Stack doors~~
+- ~~Bring up trim~~
+  Then make a stand/box to hold trim nicely
 
 ### Tomaž office
 
-- Empty bookshelves to e.g. library
-- Remove bookshelves (sell/free stuff)
+- ~~Empty bookshelves to e.g. library~~
+- ~~Remove bookshelves (sell/free stuff)~~
 - Empty closet
 - Resolve closet light
 - iMacs: back up, wipe, sell
@@ -39,8 +40,9 @@ toc: true
 
 ### Exercise room
 
-- Remove closet shelves
-- Paint touchup around closet shelves as needed
+- ~~Clean out closets~~
+- ~~Paint touchup around closet shelves as needed~~
+- Organize exercise equipment
 
 ### Master bedroom
 
@@ -76,34 +78,36 @@ toc: true
 ## Tasks not tied to rooms
 
 - Storm windows replaced with screens
-- Pencil jar and notebook station in upstairs and downstairs
-- Cardboard box supply station
-- Loose coins jar
+- ~~Pencil jar and notebook station in upstairs and downstairs~~
+- ~~Cardboard box supply station~~
+- ~~Loose coins jar~~
 
 **Dump boxes:**
 
-- E-waste dump box
-- Medical waste dump box
-- Goodwill clothes
+- ~~E-waste dump box~~
+- ~~Medical waste dump box~~
+- ~~Goodwill clothes~~
+- Batteries
+- Office supplies
 
 ## Sell/Dump/Free stuff
 
 ### Sell or free stuff
 
 - iMacs
-- Tomaž office bookshelves
-- Tomaž office desk
-- Outdoor back patio desk
-- Master bedroom rug
-- Library puzzle table
-- Kitchen room round table
-- Dining room bench
-- Library sink
-- Trampoline
-- Martin room desk
+- ~~Tomaž office bookshelves~~
+- ~~Tomaž office desk~~
+- ~~Master bedroom rug~~
+- ~~Library puzzle table~~
+- ~~Kitchen room round table~~
+- ~~Dining room bench and chairs~~
+- ~~Library sink~~
+- ~~Trampoline~~
+- ~~Martin room desk~~
 - Martin room bookshelves
-- Garage shelves
-- Mom office desk
+- ~~Garage shelves~~
+- ~~Mom office desk~~
+- Outdoor back patio desk
 
 ### Dump
 
