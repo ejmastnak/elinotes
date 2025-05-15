@@ -22,7 +22,7 @@ toc: true
 - ~~Remove bookshelves (sell/free stuff)~~
 - Empty closet
 - Resolve closet light
-- iMacs: back up, wipe, sell
+- iMacs: back up, wipe, list for sale
 
 ### Julia office
 
@@ -31,7 +31,9 @@ toc: true
 
 ### Eli bedroom
 
-- Empty closet
+- ~~Empty closet~~
+- Empty drawers below bed
+- Move residual giveaway clothes from dresser to giveaway pile
 
 ### Martin bedroom
 
@@ -42,7 +44,7 @@ toc: true
 
 - ~~Clean out closets~~
 - ~~Paint touchup around closet shelves as needed~~
-- Organize exercise equipment
+- ~~Organize exercise equipment~~
 
 ### Master bedroom
 
@@ -78,6 +80,8 @@ toc: true
 ## Tasks not tied to rooms
 
 - Storm windows replaced with screens
+- Evaluate all light bulbs for installation/replacement.
+  Then gift/sell remaining light bulbs.
 - ~~Pencil jar and notebook station in upstairs and downstairs~~
 - ~~Cardboard box supply station~~
 - ~~Loose coins jar~~
@@ -87,8 +91,8 @@ toc: true
 - ~~E-waste dump box~~
 - ~~Medical waste dump box~~
 - ~~Goodwill clothes~~
-- Batteries
-- Office supplies
+- ~~Batteries~~
+- ~~Office supplies~~
 
 ## Sell/Dump/Free stuff
 
@@ -132,15 +136,27 @@ toc: true
 
 ### 2025-05-14
 
-- Empty Tomaž office closet contents into newly-inaugurated e-waste and medical DumpBoxes.
-  And create new dump boxes as needed.
-- Ironing board resolved.
-- Back iMac contents to USB drives and label drives.
-- Empty Eli closet to clothes DumpBox
-- Evaluate exercise room closet shelves for oiling.
-  Decide on organizing exercise room equipment into newly cleaned shelves.
-- Initiate family CD cleaning up
+- ~~Empty Tomaž office closet contents into newly-inaugurated e-waste and medical DumpBoxes.~~
+  ~~And create new dump boxes as needed.~~
+- ~~Ironing board resolved.~~
+- ~~Battery DumpBox~~
+- ~~Office supplies DumpBox~~
+- ~~Evaluate exercise room closet shelves for oiling.~~
+- ~~Decide on organizing exercise room equipment into newly cleaned shelves.~~
+- ~~Back up iMac contents to USB drives and label drives.~~
+- ~~Empty Eli closet to clothes DumpBox~~
+- ~~Initiate family CD cleaning up~~
+- ~~Investigate power supply to garage door transmitter~~
+- ~~Light inventory: check all missing bulbs, mismatched colors. Prepare list of bulbs to buy/order and lamps to clean.~~
+
+### 2025-05-15
+
 - Do a full evaluation and TODO on library
-- Battery DumpBox
-- Office supplies DumpBox
-- Investigate power supply to garage door transmitter
+- Garage door: check continuity of wires from RX and TX to main unit
+- Replace Dad office flourescent bulb
+- Confirm USB contents of backed-up iMacs are accessible on other computers.
+- Pair Bluetooth keyboards and mice with iMacs.
+- List iMacs for sale
+- Clean dirty bulbs
+- Buy necessary replacement bulbs
+- Finish up organizing exercise equipment in exercise room
