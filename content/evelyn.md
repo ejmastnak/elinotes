@@ -111,7 +111,7 @@ toc: true
 - Martin room bookshelves
 - ~~Garage shelves~~
 - ~~Mom office desk~~
-- Outdoor back patio desk
+- ~~Outdoor back patio desk~~
 
 ### Dump
 
@@ -196,14 +196,20 @@ toc: true
 - ~~Prepare basement freezer ad materials~~
 - ~~Prepare ad material of Martin's for-sale stuff with Martin~~
 - ~~Keep up good work in library with family during family work hour~~
-- Take down garage shelves
+- ~~Take down garage shelves~~
 
 ### 2025-05-19
 
-- House walkthrough with Laura
 - Look through and resolve Mom's stuck points in her office
 - Inventory and possibly fix loose kitchen hardware
 - Keep up good work in library with family during family work hour
-- Patch library painting hanging nail holes with painters
-- Ask painters about random orbit sander
-- Put all basement legos and playmobiles in one place
+- ~~Patch library painting hanging nail holes with painters~~
+- ~~Ask painters about random orbit sander for table~~
+- ~~Put all basement legos and playmobiles in one place~~
+- House walkthrough with Laura:
+  - To what extent do drawers (e.g. in kitchen, bedrooms) have to be empty?
+  - Remove kitchen table and show empty (expansive)?
+  - Flourescent T12 bulb missing cover?
+  - Second opinion on Mom office low chair
+  - Second opinion on sitting room antique furniture
+  - Lights in Mom's bathroom
