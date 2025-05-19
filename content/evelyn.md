@@ -32,8 +32,8 @@ toc: true
 ### Eli bedroom
 
 - ~~Empty closet~~
-- Empty drawers below bed
-- Move residual giveaway clothes from dresser to giveaway pile
+- ~~Empty drawers below bed~~
+- ~~Move residual giveaway clothes from dresser to giveaway pile~~
 
 ### Martin bedroom
 
@@ -182,18 +182,28 @@ toc: true
 - ~~Make exercise room a DumpFreeRoom~~
 - ~~Investigate potential for emptying basement freezer~~
 - ~~Collect next batch of lingering selling items (mirror, fish supplies, Martin's instruments, Inter Milan jacket, freezer)~~
-- Install new light switches
-- Install new switch plate and outlet plate screws
+- ~~Install new light switches~~
+- ~~Install new switch plate and outlet plate screws~~
 - ~~Empty garage to basement~~
 - ~~Begin work in library~~
 
-## 2025-05-17
+### 2025-05-18
 
-- Make Eli's room a DumpFreeRoom
-- Pictures of free stuff in garage.
-- Collect free stuff in house. Include light bulbs!
-- List garage free stuff
+- ~~Make Eli's room a DumpFreeRoom~~
+- ~~Pictures of free stuff in garage.~~
+- ~~Collect free stuff in house. Include light bulbs!~~
+- ~~List garage free stuff~~
+- ~~Prepare basement freezer ad materials~~
+- ~~Prepare ad material of Martin's for-sale stuff with Martin~~
+- ~~Keep up good work in library with family during family work hour~~
 - Take down garage shelves
-- Prepare ad material of Martin's for-sale stuff with Martin
-- Prepare basement freezer ad materials
+
+### 2025-05-19
+
+- House walkthrough with Laura
+- Look through and resolve Mom's stuck points in her office
+- Inventory and possibly fix loose kitchen hardware
 - Keep up good work in library with family during family work hour
+- Patch library painting hanging nail holes with painters
+- Ask painters about random orbit sander
+- Put all basement legos and playmobiles in one place
