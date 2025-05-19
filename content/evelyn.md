@@ -207,9 +207,11 @@ toc: true
 - ~~Ask painters about random orbit sander for table~~
 - ~~Put all basement legos and playmobiles in one place~~
 - House walkthrough with Laura:
-  - To what extent do drawers (e.g. in kitchen, bedrooms) have to be empty?
   - Remove kitchen table and show empty (expansive)?
-  - Flourescent T12 bulb missing cover?
-  - Second opinion on Mom office low chair
-  - Second opinion on sitting room antique furniture
+    Or do we keep the small round table for the kitchen?
+  - Flourescent T12 bulb missing cover? Maybe just go coverless given how crappy covers are?
+  - Second opinion on Mom office low chair — can we keep with the matching couch set?
+  - Second opinion on sitting room antique furniture — perhaps it can stay given it matches mahogany trim in sitting room?
   - Lights in Mom's bathroom
+  - To what extent do drawers (e.g. in kitchen, bedrooms) have to be empty? Arranged? Should we be ready for every drawer to be opened?
+  - Are we putting up any paintings in bathrooms?
