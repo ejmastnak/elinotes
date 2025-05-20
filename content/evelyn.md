@@ -34,6 +34,7 @@ toc: true
 - ~~Empty closet~~
 - ~~Empty drawers below bed~~
 - ~~Move residual giveaway clothes from dresser to giveaway pile~~
+- Remove small dresser stand to closet
 
 ### Martin bedroom
 
@@ -48,11 +49,18 @@ toc: true
 
 ### Master bedroom
 
-- Remove carpet
+- ~~Remove carpet~~
+
+### Master bathroom
+
+- Replace window curtain with wooden blinds
+- Replace all auxiliary lights; possible replace with non-dimming switch
 
 ### Sitting room
 
 - ~~Move table to library~~
+- Sell/remove chest of drawers and replace with spindle cabinet
+- Wax/refinish coffee table
 
 ### Kitchen
 
@@ -68,20 +76,21 @@ toc: true
 
 - ~~Remove puzzle table~~
 - Stage bookshelves
-
-### Basement
+- Hang paintings
+- Collect bookshelves, decorative glasses, and other staging material to fill 6 foot high on all bookshelves
 
 ### Garage
 
 - ~~Remove shelves~~
-- Fix door so one opens automatically
-- Remove pipes and ducts
+- ~~Remove PVC drainage pipes~~
+- Fix one door so it opens with remote
+- Remove all doors and scrap wood from roof joists
 
 ## Tasks not tied to rooms
 
 - Storm windows replaced with screens
 - ~~Evaluate all light bulbs for installation/replacement.~~
-  Then gift/sell remaining light bulbs.
+- Replace all T12 flourescents with warm white LED replacements
 - ~~Pencil jar and notebook station in upstairs and downstairs~~
 - ~~Cardboard box supply station~~
 - ~~Loose coins jar~~
@@ -201,17 +210,26 @@ toc: true
 ### 2025-05-19
 
 - Look through and resolve Mom's stuck points in her office
-- Inventory and possibly fix loose kitchen hardware
-- Keep up good work in library with family during family work hour
+- ~~Keep up good work in library with family during family work hour~~
 - ~~Patch library painting hanging nail holes with painters~~
 - ~~Ask painters about random orbit sander for table~~
 - ~~Put all basement legos and playmobiles in one place~~
-- House walkthrough with Laura:
-  - Remove kitchen table and show empty (expansive)?
-    Or do we keep the small round table for the kitchen?
-  - Flourescent T12 bulb missing cover? Maybe just go coverless given how crappy covers are?
-  - Second opinion on Mom office low chair — can we keep with the matching couch set?
-  - Second opinion on sitting room antique furniture — perhaps it can stay given it matches mahogany trim in sitting room?
-  - Lights in Mom's bathroom
-  - To what extent do drawers (e.g. in kitchen, bedrooms) have to be empty? Arranged? Should we be ready for every drawer to be opened?
-  - Are we putting up any paintings in bathrooms?
+- ~~House walkthrough with Laura. Questions include:~~
+  - ~~Remove kitchen table and show empty (expansive)? Or do we keep the small round table for the kitchen?~~
+  - ~~Flourescent T12 bulb missing cover? Maybe just go coverless given how crappy covers are?~~
+  - ~~Second opinion on Mom office low chair — can we keep with the matching couch set?~~
+  - ~~Second opinion on sitting room antique furniture — perhaps it can stay given it matches mahogany trim in sitting room?~~
+  - ~~Lights in Mom's bathroom~~
+  - ~~To what extent do drawers (e.g. in kitchen, bedrooms) have to be empty? Arranged? Should we be ready for every drawer to be opened?~~
+  - ~~Are we putting up any paintings in bathrooms?~~
+
+### 2025-05-20
+
+- Take all material down from garage ceiling
+- Finish processing library bookshelves
+- Keep up good work with basement Legos/Playmobils
+- Inventory loose kitchen hardware with Martin
+- Demo library paintings; see how they cover up old hanging screws and decide on removing on screws or not
+- Identify circuits: master bathroom auxiliary lights; dining room outlets
+- List carpet pad for free takeaway
+- List chest of drawers in library or decide a taker with Mom
