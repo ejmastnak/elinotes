@@ -23,6 +23,7 @@ toc: true
 - ~~Empty closet~~
 - ~~Resolve closet light~~
 - ~~iMacs: back up, wipe, list for sale~~
+- Clean balcony
 
 ### Julia office
 
@@ -34,11 +35,10 @@ toc: true
 - ~~Empty closet~~
 - ~~Empty drawers below bed~~
 - ~~Move residual giveaway clothes from dresser to giveaway pile~~
-- Remove small dresser stand to closet
 
 ### Martin bedroom
 
-- Remove small bookcase
+- ~~Remove small bookcase~~
 - ~~Remove large wood desk~~
 
 ### Exercise room
@@ -53,8 +53,8 @@ toc: true
 
 ### Master bathroom
 
-- Replace window curtain with wooden blinds
-- Replace all auxiliary lights; possible replace with non-dimming switch
+- Replace window curtain with blinds
+- ~~Replace all auxiliary lights; possibly replace with non-dimming switch~~
 
 ### Sitting room
 
@@ -64,8 +64,8 @@ toc: true
 
 ### Kitchen
 
-- Remove round table
-- Fix loose cabinet hardware
+- ~~Remove round table~~
+- ~~Fix loose cabinet hardware~~
 
 ### Dining room
 
@@ -75,15 +75,15 @@ toc: true
 ### Library
 
 - ~~Remove puzzle table~~
-- Stage bookshelves
 - Hang paintings
 - Collect bookshelves, decorative glasses, and other staging material to fill 6 foot high on all bookshelves
+- Stage bookshelves
 
 ### Garage
 
 - ~~Remove shelves~~
 - ~~Remove PVC drainage pipes~~
-- Fix one door so it opens with remote
+- ~~Fix one door so it opens with remote~~
 - Remove all doors and scrap wood from roof joists
 
 ## Tasks not tied to rooms
@@ -117,7 +117,7 @@ toc: true
 - ~~Library sink~~
 - ~~Trampoline~~
 - ~~Martin room desk~~
-- Martin room bookshelves
+- ~~Martin room bookshelves~~
 - ~~Garage shelves~~
 - ~~Mom office desk~~
 - ~~Outdoor back patio desk~~
@@ -209,7 +209,6 @@ toc: true
 
 ### 2025-05-19
 
-- Look through and resolve Mom's stuck points in her office
 - ~~Keep up good work in library with family during family work hour~~
 - ~~Patch library painting hanging nail holes with painters~~
 - ~~Ask painters about random orbit sander for table~~
@@ -226,10 +225,40 @@ toc: true
 ### 2025-05-20
 
 - Take all material down from garage ceiling
-- Finish processing library bookshelves
-- Keep up good work with basement Legos/Playmobils
-- Inventory loose kitchen hardware with Martin
-- Demo library paintings; see how they cover up old hanging screws and decide on removing on screws or not
-- Identify circuits: master bathroom auxiliary lights; dining room outlets
-- List carpet pad for free takeaway
-- List chest of drawers in library or decide a taker with Mom
+- ~~Finish processing library bookshelves during family work time~~
+- ~~Keep up good work with basement Legos/Playmobils~~
+- ~~Fix loose kitchen hardware~~
+- ~~Identify circuits: master bathroom auxiliary lights; dining room outlets~~
+- Test-fit library paintings; see how they cover up old hanging screws and decide on removing screws or not
+- ~~List carpet pad for free takeaway~~
+- ~~List chest of drawers in library or decide a taker with Mom~~
+
+### 2025-05-21
+
+- Wrap up lingering items from previous days.
+- ~~Determine wiring of T12 flourescent fixtures (shunted? non-shunted?)~~
+- ~~Fix master bathroom auxiliary lights—replace dimmer switches with standard switches~~
+- ~~Investigate dining room outlet screw or box replacement~~
+- ~~Measure master bathroom window dimensions for blinds~~
+- ~~Research:~~
+  - ~~Window blinds~~
+  - ~~Wood scratch remover/refinishing products~~
+  - ~~Shipping to Slovenia~~
+  - ~~Storage options~~
+
+### 2025-05-22
+
+- ~~Decide on wood scratch remover~~
+- Purchase master bathroom blinds
+- ~~Purchase outlet box for dining room outlet~~
+- ~~Install new dining room outlet junction box and outlet~~
+- ~~Replace garage door safety sensors~~
+- ~~Purchase LED replacements for tubular flourescent lights~~
+
+### 2025-05-22
+
+- Basement concrete cover for drain line clean-out
+- Bagster
+- Garage contents emptied to bagster
+- Basement plastic foil to bagster
+- Process library giveaway materials
