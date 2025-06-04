@@ -8,7 +8,7 @@
     },
     {
       "name": "Open web browser at project root",
-      "cmd": "xdg-open http://localhost:1313/evelyn && sleep 1",
+      "cmd": "xdg-open http://localhost:1313 && sleep 1",
       "tags": ["view"],
       "count": 2
     },
