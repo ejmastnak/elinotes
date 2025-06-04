@@ -58,7 +58,6 @@ toc: true
 ### Sitting room
 
 - ~~Move table to library~~
-- Wax/refinish coffee table
 
 ### Kitchen
 
@@ -87,10 +86,11 @@ toc: true
 
 - ~~Storm windows replaced with screens~~
 - ~~Evaluate all light bulbs for installation/replacement.~~
-- Replace all T12 flourescents with warm white LED replacements
+- ~~Replace all T12 flourescents with warm white LED replacements~~
 - ~~Pencil jar and notebook station in upstairs and downstairs~~
 - ~~Cardboard box supply station~~
 - ~~Loose coins jar~~
+- Wax/refinish scratched wood furniture
 
 **Dump boxes:**
 
@@ -134,23 +134,22 @@ toc: true
 - ~~Garden tools~~
 - ~~Christmas decorations~~
 - ~~Cleaning supplies~~
-- Basement freezer
+- ~~Basement freezer~~
 
 
 ### Dump/Giveaway
 
 - ~~Tomaž office lamp~~
 - ~~Medical waste~~
-- CDs
-- Books
-- E-waste
-- Clothes
-- Batteries
-- Used light bulbs
-- Clothes
-- Office supplies
-- Engine oil
-- Paint
+- ~~CDs~~
+- ~~Books~~
+- ~~E-waste~~
+- ~~Clothes~~
+- ~~Batteries~~
+- ~~Used light bulbs~~
+- ~~Office supplies~~
+- ~~Paint~~
+- ~~Engine oil~~
 
 ## Tasks by day
 
@@ -333,11 +332,33 @@ Work day interrupted — commencement and family dinner.
 - ~~Collect all items for storage and measure approximate dimensions~~
 - ~~Label all window screens and storm windows~~
 - ~~Dump load to Pennington~~
-- Install exercise room blinds
+- ~~Install exercise room blinds~~
 
-### 2025-05-29
+### 2025-05-30
 
-- Window tab fixes
+- ~~Label storage boxes~~
+- ~~Dump lingering items into dumpster~~
+- ~~Arrange cleaning for Monday/Tuesday~~
+- ~~Load U-Haul and take storage materials to storage facility~~
+- ~~Pennington run with more giveaway materials~~
+
+### 2025-05-31
+
+- ~~Playmobils: sort into keep/giveaway~~
+- ~~Store Tania items in basement~~
+- ~~Sort bedding and linens into stays/goes~~
+- ~~Collect and sort accumulated packaging into recycling/trash and box for recycling~~
+- ~~Dispose of Tomaž rocks~~
+
+### 2025-06-01
+
+- ~~Clean exterior of all windows~~
+- ~~Fix all broken storm window clips~~
+- ~~Fix switches/change bulbs on lamps~~
+- ~~Glue up and install ceiling light blanks in master bathroom~~
+
+### Lingering items
+
 - Touch-up finish on wood furniture: sitting room coffee table, kitchen table, dining room chest of drawers, library coffee table
-- Label storage boxes
-- Dispose of Tomaž rocks
+- Clean Tomaž office balcony
+- Clean any lingering windows/storm windows
