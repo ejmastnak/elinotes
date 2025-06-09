@@ -6,9 +6,7 @@ description: Earthwork, drainage, and foundation improvements at TV47
 
 # TV47 Earthwork
 
-Goal: resolve damp and mold in basement.
-
-Problem: moisture from earth seeping into basement walls around perimeter of building because of inadequate drainage.
+Context: moisture seeping into the basement around the perimeter of building because of inadequate drainage has caused damp and mold growth in basement.
 Mold growth is evident at foot level in e.g. the mechanical room, notably at the foundation corners (which also coincide with gutter downspout locations).
 
 ## Exterior remediation
