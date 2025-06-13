@@ -14,4 +14,8 @@ Roadmaps and plans for a few projects I'm working on:
 - [TV47](/plans/tv47/)
 - [Sensemotion](/plans/sensemotion/) (complete)
 
-[Notes on password management](/notes/passwords/passwords)
+Ricky:
+
+- [Warm-Up June 2025](/ricky/warm-up-2025-06)
+- [Martin Workouts](/ricky/martin-2025-06)
+
