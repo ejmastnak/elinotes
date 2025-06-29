@@ -22,7 +22,7 @@ toc: true
 - ~~Empty closet~~
 - ~~Resolve closet light~~
 - ~~iMacs: back up, wipe, list for sale~~
-- Clean balcony
+- ~~Clean balcony~~
 
 ### Julia office
 
@@ -90,7 +90,7 @@ toc: true
 - ~~Pencil jar and notebook station in upstairs and downstairs~~
 - ~~Cardboard box supply station~~
 - ~~Loose coins jar~~
-- Wax/refinish scratched wood furniture
+- ~~Wax/refinish scratched wood furniture~~
 
 **Dump boxes:**
 
@@ -359,6 +359,19 @@ Work day interrupted — commencement and family dinner.
 
 ### Lingering items
 
-- Touch-up finish on wood furniture: sitting room coffee table, kitchen table, dining room chest of drawers, library coffee table
-- Clean Tomaž office balcony
-- Clean any lingering windows/storm windows
+- ~~Touch-up finish on wood furniture: sitting room coffee table, kitchen table, dining room chest of drawers, library coffee table~~
+- ~~Clean Tomaž office balcony~~
+- ~~Clean lingering windows/storm windows~~
+- ~~Inventory remaining house items; sort into giveaway/dump/storage~~
+- ~~Empty kitchen and mudroom drawers/cabinets and boxify fridge items for easy removal so cleaners can clean/dust inside~~
+- ~~Take remaining items to storage~~
+- ~~Mop basement perimeter; sweep up remaining construction waste from 2024-25 Randall renovation; clean window sills; clean dust from appliances (water filter, boiler, dehumidifiers, sump pumps, etc.)~~
+- ~~Repair disconnected wiring for range hood vent lights~~
+- ~~Move antique chest of drawers to basement to free up space in sitting room~~
+- ~~Rearrange sofas/drawers/cabinets/desks/chairs into place for staging~~
+- ~~Center all furniture/cabinets/drawers along walls and push flush agains wall~~
+- ~~Complete/review staging of library, Tomaž's office, Eli and Martin's rooms, exercise room, kitchen, sitting room~~
+- ~~Dispose of remaining rock collection rocks~~
+- ~~Assemble coat rack from Amazon; move to basement; empty Martin's closet, Eli's closet, and entry closet to basement coat rack~~
+- ~~Empty kitchen countertops; pack and label kitchen items and appliances that stay in house for use in July; move boxes to basement~~
+- ~~Neatly stack/arrange boxes and furniture that stays in basement for showing~~
