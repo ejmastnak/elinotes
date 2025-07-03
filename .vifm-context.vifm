@@ -2,5 +2,5 @@ let $VIFM_CONTEXT = expand('%d')
 source $VIFM/navigation/hugo.vifm
 
 nnoremap ;nn :cd $VIFM_CONTEXT/content/plans<CR>
-nnoremap ;ee :goto $VIFM_CONTEXT/content/evelyn.md<CR>
-
+nnoremap ;rr :cd $VIFM_CONTEXT/content/ricky<CR>
+nnoremap ;ee :goto $VIFM_CONTEXT/content/plans/evelyn.md<CR>
