@@ -12,3 +12,7 @@ toc: false
   Prototype a "request changes" web app/dashboard to monitor all client sites and let clients request changes on their sites.
 
 To look through: /home/ej/Documents/plans/portfolio.md
+
+EliMusic works frictionlessly, even on AppleDevices.
+FoundMyPhone works frictionlessly on frontend.
+WiFiQR code generator
