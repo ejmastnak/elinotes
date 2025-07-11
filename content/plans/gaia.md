@@ -7,7 +7,9 @@ toc: true
 
 # Gaia
 
-## Week 1: Label infrastructure
+## Labels
+
+### Label infrastructure
 
 - Learn printing concepts: CMYK vs RGB color space; trim and bleed area, crop marks; font embedding; DPI
 - Scribus MWE: create document with:
@@ -29,7 +31,7 @@ toc: true
 - Create scripts to generate QR codes pointing to gaia.si
 - Create scripts to generate barcodes for EAN codes
 
-## Week 2: Convert labels from Inkscape to Scribus
+### Convert labels from Inkscape to Scribus
 
 Convert labels from Inkscape to Scribus:
 
@@ -45,7 +47,7 @@ Make final label changes:
 - Replace BIO with e.g. "Poreklo: Slovenija" "100% Slovensko" or similar
 - Replace BIO logo with QR code pointing to https://gaia.si
 
-## Week 3: Label order and inquiry
+### Label order and inquiry
 
 Learn how to use labelling machine; understand roll of core diameter, maximum roll diameter, roll width, winding direction.
 
@@ -56,7 +58,9 @@ Finalize LabelProfi inquiry:
 - Visit LabelProfi for consulatation
 - Send off order
 
-## Week 4: Website MWE
+## Web
+
+### Website MWE
 
 Stack: Vue.js, Tailwind
 
@@ -75,7 +79,7 @@ Create a minimal working example website with:
 - Finalized design (colors, fonts, layout, etc)
 - Placeholder content is fine (e.g. solid color rectangles as image placeholders until you have images of Gaia products, Lorem Ipsum content for text until you have text content ready)
 
-## Week 5: Website content (text and images)
+### Website content (text and images)
 
 Write text content for Home, About, Products, Where to buy, and Contact pages; and Product sub-pages for JabSok, JabKis, SntOlj.
 
@@ -97,7 +101,14 @@ Publish website:
 - Publish website on Cloudflare
 - Point gaia.si to new website
 
-## Week 6a: Financials (legal research)
+### Supplementary web apps
+
+- As a supplementary option to davčna blagajna računi, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
+- Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order)
+
+## Financials and legal
+
+### Financials (legal research)
 
 Answer questions:
 
@@ -107,7 +118,7 @@ Answer questions:
 - Requirements for legally accepting cash as payment (akt o blagajniškem poslovanju; acquiring digitalno potrdilo; protocol and relevant davčna blagajna software/hardware for selling products for cash in accordance with `Pravilnik o izvajanju Zakona o davčnem potrjevanju računov`; protocol for depositing cash at bank; etc.)
 - Find authoritative source for konti used by Slovene Accounting Standards (SRS)
 
-## Week 6b: Financials (bookkeeping)
+### Financials (bookkeeping)
 
 - Map each current Gaia account to an appropriate account used by Slovene Accounting Standards (SRS)
 - Go through books and enumerate common transactions (e.g. paying for services, paying for goods, invoicing for software development, invoicing for physical goods, etc)
@@ -115,14 +126,14 @@ Answer questions:
 - Work through proper SRS accounting workflow of a full lifecycle for e.g. JabSok, from purchasing empty bottles to closing books with end-of-year sales revenue.
 - Update books so that all transactions use SRS-compliant accounts and bookkeeping workflows.
 
-## Week 6c: Financials (davčna blagajna)
+### Financials (davčna blagajna)
 
 - Acquire digitalno potrdilo za pošiljanje računov v davčno potrjevanje
 - Draft and sign an `Akt o blagajniškem poslovanju` for Gaia (enumerate points of sale, authorized salespeople, which products may be sold for cash, which points of sale accept cash; determine how much cash can be held at a given time; determine how regularly cash must be deposited at bank)
 - Set up and learn to use davčna blagajna software
 - Acquire a receipt printer and learn to use; or otherwise solve workflow of giving customers a copy of receipt
 
-## Week 6d: Financials (taxes and financial reports)
+### Financials (taxes and financial reports)
 
 - Document protocol for paying DDV following DDV-O (quarterly DDV form submitted to FURS), and recipe for recording the transactions in your books.
 - Create script to programatically generate a DDV report from journal entries for a given date range
@@ -135,20 +146,22 @@ Answer questions:
 - Document recipes for submitting financial statments (website to visit, authentication process, etc.)
 - Document protocol for calculating paying DOD-DDPO (end of year report submitted to FURS)
 
-## Week 6e: Inventory bookkeeping
+### Inventory bookkeeping
 
 - Clearly enumerate which inventory items must be kept track of in a dedicated inventory ledger to be compliant with SRS
 - Document SRS-compliant format of inventory ledgers
 - Take physical inventory of required items
 - Based on results of inventory-taking, create inventory ledgers for required items
 
-## Week 6f: Financials: compliant bookkeeping software
+### Financials: compliant bookkeeping software
 
 Acquire or set up bookkeeping software in compliance with SRS and ZDavP člen 38.
 
 Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping SaaS, or see if you can find a solution by combining plain-text accounting with immutable audit logs or append-only ledger tables.
 
-## Side quest: Warehouse and Inventory
+## Side quests
+
+### Warehouse and Inventory
 
 - Arrange basement so family reserves of pickles/preserves/drinks/Gaia products set aside for home use etc. are in a separate part of the basement from Gaia inventory.
 - JabSok: have a workable, organized, clean JabSok setup.
@@ -168,14 +181,14 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 Have IBCs and kisarna nice and clean, have basement organized with nice stacks of gajbicas, have the facilities nice and presentable for visits.
 
 
-## Side quest: Product R&D
+### Product R&D
 
 - Soap: create molds, purchase thermometer, prepare recipes.
 - Soap: create soaps as per recipes, label each batch in preparation for future reflections, set to cure.
 - Burts: create recipes (varying ratios of liquid fat, solid fat, and bee's wax) to test.
 -  Burts: create burts as per recipes, label each batch in preparation for reflections. Iterate.
 
-## Side quest: Photography
+### Photography
 
 Learn to use a manual DSLR camera (in preparation for taking photos for Gaia website):
 
@@ -183,12 +196,7 @@ Learn to use a manual DSLR camera (in preparation for taking photos for Gaia web
 - Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)
 - Retake all production Gaia images on a DSLR
 
-## Side quest: supplementary web apps
-
-- As a supplementary option to davčna blagajna računi, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
-- Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order)
-
-## Side quest: administrative tasks
+### Administrative tasks
 
 - Move hosting of Gaia webmail from Dominik to a host you do business with directly
 - Call up Delovska Hranilnica and cancel mobile banking subscription
