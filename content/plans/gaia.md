@@ -96,6 +96,13 @@ toc: true
   - ~~Publish website on Cloudflare~~
   - ~~Point gaia.si to new website~~
 
+### BeforeMayUSA2025 website additions
+
+- ~~Travniski sadovnjak~~
+- ~~Sorte jablan~~
+- "kid (family) trying to make a business happen" story
+- "sell botique eko products at reasonable prices" story
+
 ### Online shop
 
 Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order):
@@ -154,33 +161,71 @@ Answer questions:
 - ~~Document recipes for submitting financial statments (website to visit, authentication process, etc.)~~
 - ~~Document protocol for calculating paying DOD-DDPO (end of year report submitted to FURS)~~
 
-### Inventory bookkeeping
-
-- Clearly enumerate which inventory items must be kept track of in a dedicated inventory ledger to be compliant with SRS
-- Document SRS-compliant format of inventory ledgers
-- Take physical inventory of required items
-- Based on results of inventory-taking, create inventory ledgers for required items
-
-### Financials: compliant bookkeeping software
+### Financials (compliant bookkeeping software)
 
 Acquire or set up bookkeeping software in compliance with SRS and ZDavP člen 38.
 
 Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping SaaS, or see if you can find a solution by combining plain-text accounting with immutable audit logs or append-only ledger tables.
 
-## BeforeMayUSA
-
-### Direktorstvo
+### Legal: direktorstvo
 
 - ~~Gaia direktorstvo resolved — transferred to a Mastnak without obligation to pay prispevki~~
 - ~~Draft all legal documents needed for direktorstvo transfer~~
 - ~~Sign and store copies of *Pogodba o poslovodenju*~~
 
-### Website additions:
+## Inventory
 
-- ~~Travniski sadovnjak~~
-- ~~Sorte jablan~~
-- "kid (family) trying to make a business happen" story
-- "sell botique eko products at reasonable prices" story
+### Research and bookkeeping workflows
+
+- ~~Clearly enumerate which inventory items must be kept track of in a dedicated inventory ledger to be compliant with SRS~~
+- ~~Document SRS-compliant format of inventory ledgers~~
+- ~~Do `the_bottles`, an analog of `the_apples` for inventory bookkeeping: enumerate transactions (e.g. purchase of empty bottles, consuming of bottles to produce juice, labelling bottles, selling juice, etc.).~~
+ ~~Record Beancount recipe for associated at-cost bookkeeping of each transaction.~~
+- ~~Make a demo/proof-of-concept where you record a few dummy transactions representing various stages of the production lifecycle for e.g. JabSok and JabKis and then practice querying which cost lots of which materials you have in inventory at any given time over the production period.~~
+- Meatspace/computer workflow for recording changes in 320, 602, and 630 inventory accounts during each phase of production (e.g. notebook in basement coupled with secondary Beancount ledger).
+
+### Establish inventory
+
+- Take physical inventory of required items
+- Based on results of inventory-taking, create inventory ledgers for required items
+
+## Facilities
+
+### Miscellaneous
+
+Establish facilities for inventory-related workflows:
+
+- ~~Arrange basement so family reserves of pickles/preserves/drinks/Gaia-products-set-aside-for-home-use etc. are in a separate part of the basement from Gaia inventory.~~
+- Workflow for delabeling returned bottles
+- Workflow for cleaning returned bottles and storing for future use
+- Establish clean, dedicated storage space for packaging (bottles, caps, etc.) and labels
+
+### JabSok
+
+- ~~Clean existing JabSok bottles of dust/evaporated fruit juice, place in crates, label crates with quantity and lot number. Do this sproti, a gajbica at a time, until suddenly all the JabSok is clean and labeled and inventoried.~~
+- ~~Store JabSok bottles in crates with a well-known, fixed number of bottles per crate, for easy inventory.~~
+- ~~Assemble enough plastic crates to store cca 1000 JabSok330 bottles.~~
+- ~~Build enough wooden crates for cca 1000 bottles of JabSok750. Crates should be solid enough to comfortably carry cca 25 kg of bottles, and modularly stackable to e.g. 4 levels high.~~
+- ~~Label creates with UIDs~~
+- ~~Set up an inventory system to keep track of lot number and number of bottles in each crate, e.g. dedicated notecards, markers, and thumbtacks in basement that can be attached to crates.~~
+
+### JabKis
+
+- Test each of the three cisterns, record subjective differences in taste, qualities, etc..
+- Pressure wash and sweep out štala floor of dust, mold, etc.
+- Pressure wash empty cisterns.
+  Perhaps transfer existing JabKis to cleaned empty cisterns and clean out previously-full cisterns, too.
+- Have a pumping workflow "that works", even just filling 5-liter jugs a crate at a time.
+- Have e.g. 50-100 liters in manageable quantities ready to go at any given time in MiniŠtala on metals shelves
+
+Have IBCs and kisarna nice and clean, have basement organized with nice stacks of gajbicas, have the facilities nice and presentable for visits.
+
+### Office
+
+Meatspace/office: place to store all relevant legal documents and akts.
+Ensure each has a corresponding electronic scan in a well-defined location on file system.
+
+## Marketing
 
 ### Pricing investigation
 
@@ -189,45 +234,16 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 - ~~Write simple scripts to find average price liter under given constraints (e.g. bio/not bio, Slovene/not Slovene, by store, etc.)~~
 - ~~Investigate graphs/charts/etc. for presenting data~~
 
-### Inventory recordkeeping
+### Visits and pitches
 
-- ~~Do `the_bottles`, an analog of `the_apples` for inventory bookkeeping: enumerate transactions (e.g. purchase of empty bottles, consuming of bottles to produce juice, labelling bottles, selling juice, etc.).~~
- ~~Record Beancount recipe for associated at-cost bookkeeping of each transaction.~~
-- ~~Make a demo/proof-of-concept where you record a few dummy transactions representing various stages of the production lifecycle for e.g. JabSok and JabKis and then practice querying which cost lots of which materials you have in inventory at any given time over the production period.~~
-- Meatspace/computer workflow for recording changes in 320, 602, and 630 inventory accounts during each phase of production (e.g. notebook in basement coupled with secondary Beancount ledger).
-- Have physical space and workflows for inventory:
-  - ~~Label crates with UIDs~~
-  - Build/acquire crates to hold remaining JabSok
-  - Clean, dedicated storage space for existing inventory (bottles, caps, labels, unfinished products)
-  - Workflow for delabeling returned bottles
-  - Workflow for cleaning returned bottles and storing for future use
+Visit family and friends to show the items you are selling at Gaia, ask for advice and contacts, pitch products:
 
-### Miscellaneous
-
-- ~~2025 Q1 DDV-O~~
-- ~~Visit Pretners to discuss farm tourism and pitch JabSok~~
+- ~~Srečo and Nada~~
+- ~~Matjaž and Cvetka~~
+- ~~Oskar~~
+- ~~Pretners~~
 
 ## Side quests
-
-### Warehouse and inventory
-
-- ~~Arrange basement so family reserves of pickles/preserves/drinks/Gaia products set aside for home use etc. are in a separate part of the basement from Gaia inventory.~~
-- ~~JabSok: have a workable, organized, clean JabSok setup.~~
-  ~~Store JabSok bottles in crates with a well-known, fixed number of bottles per crate, for easy inventory.~~
-  - ~~Assemble enough plastic crates to store cca 1000 JabSok330 bottles.~~
-  - ~~Build enough wooden crates for cca 1000 bottles of JabSok750. Crates should be solid enough to comfortably carry cca 25 kg of bottles, and modularly stackable to e.g. 4 levels high.~~
-  - ~~Set up an inventory system to keep track of lot number and number of bottles in each crate, e.g. dedicated notecards, markers, and thumbtacks in basement that can be attached to crates.~~
-  - ~~Clean JabSok bottles of dust/evaporated fruit juice, place in crates, label crates with quantity and lot number. Do this sproti, a gajbica at a time, until suddenly all the JabSok is clean and labeled and inventoried.~~
-
-- JabKis: have a workable, clean JabKis setup.
-  - Test each of the three cisterns, record differences.
-  - Pressure wash and sweep out štala floor of dust, mold, etc.
-  - Pressure wash empty cisterns.
-    Perhaps transfer existing JabKis to cleaned empty cisterns and clean out previously-full cisterns, too.
-  - Have a pumping workflow "that works", even just filling 5-liter jugs a crate at a time.
-  - Have e.g. 50-100 liters in manageable quantities ready to go at any given time in MiniŠtala on metals shelves
-
-Have IBCs and kisarna nice and clean, have basement organized with nice stacks of gajbicas, have the facilities nice and presentable for visits.
 
 ### Product R&D
 
@@ -254,8 +270,3 @@ Have IBCs and kisarna nice and clean, have basement organized with nice stacks o
 - ~~Resolve AJPES contact info and ensure invoices are sent to an email I control~~
 - Resolve renting a POS terminal to allow credit card payments
 - Cancel GS1 EAN code contract
-
-### Office
-
-Meatspace/office: place to store all relevant legal documents and akts.
-Ensure each has a corresponding electronic scan in a well-defined location on file system.
