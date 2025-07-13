@@ -14,6 +14,10 @@ Roadmaps and plans for a few projects I'm working on:
 - [TV47](/plans/tv47/)
 - [Sensemotion](/plans/sensemotion/) (complete)
 
+Dance:
+
+- [Yoandy](/dance/yoandy)
+
 Ricky:
 
 - [Warm-Up June 2025](/ricky/warm-up-2025-06)
