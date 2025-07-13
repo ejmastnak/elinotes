@@ -21,5 +21,5 @@ Ricky:
 
 TV47 notes:
 
-- [TV47 earthwork](/notes/tv47-earthwork)
-- [TV47 garden deck](/notes/tv47-garden-deck)
+- [TV47 earthwork](/tv47/earthwork)
+- [TV47 garden deck](/tv47/garden-deck)
