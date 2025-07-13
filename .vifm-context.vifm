@@ -4,5 +4,4 @@ source $VIFM/navigation/hugo.vifm
 nnoremap ;nn :cd $VIFM_CONTEXT/content/plans<CR>
 nnoremap ;pp :cd $VIFM_CONTEXT/content/plans<CR>
 
-nnoremap ;rr :cd $VIFM_CONTEXT/content/ricky<CR>
 nnoremap ;ee :goto $VIFM_CONTEXT/content/plans/evelyn.md<CR>
