@@ -113,13 +113,17 @@ Create a web app that allows customers to place orders from website (so have a b
 - ~~Implement ordering funtionality: hook up forms for product input and customer information; implement "shopping cart" to track customer order; store orders in database~~
 - ~~Create order confirmation page; redirect customers to order confirmation page on successful order~~
 - ~~Send customers order confirmation by email; Elijan is notified by email on each order~~
-- Add delivery options and add address field to checkout form
-- Generate PDF order confirmation; send customers PDF order confirmation by email
-- Customers receive PDF order confirmation by email; 
+- ~~Add delivery options and add address field to checkout form~~
+- ~~Add payment method options (cash, UPN) to checkout form~~
 
-### Supplementary web apps
+### Online shop — PDF generation
 
-As a supplementary option to davčna blagajna računi, create a web app that uses UpnQr to generate invoices/receipts that a customer can scan in a mobile banking app and pay directly to your TRR, avoiding requirements for cash payment.
+- ~~Design PDF prototypes of order confirmations for customer's orders using dummy data~~
+- ~~Create LaTeX templates that render to order confirmations when populated with data from a customer's order~~
+- ~~Generate order confirmations from web app~~
+- ~~Send customers PDF order confirmations by email upon customer placing and order~~
+- Repeat for predračuns
+- Repeat for računs
 
 ## Financials and legal
 
@@ -146,7 +150,7 @@ Answer questions:
 - ~~Acquire digitalno potrdilo za pošiljanje računov v davčno potrjevanje~~
 - ~~Draft and sign an `Akt o blagajniškem poslovanju` for Gaia (enumerate points of sale, authorized salespeople, which products may be sold for cash, which points of sale accept cash; determine how much cash can be held at a given time; determine how regularly cash must be deposited at bank)~~
 - ~~Set up and learn to use davčna blagajna software~~
-- Acquire a receipt printer and learn to use; or otherwise solve workflow of giving customers a copy of receipt
+- ~~Acquire a receipt printer and learn to use; or otherwise solve workflow of giving customers a copy of receipt (solution, for now: send PDF of receipt to customers)~~
 
 ### Financials (taxes and financial reports)
 
@@ -182,7 +186,7 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 - ~~Do `the_bottles`, an analog of `the_apples` for inventory bookkeeping: enumerate transactions (e.g. purchase of empty bottles, consuming of bottles to produce juice, labelling bottles, selling juice, etc.).~~
  ~~Record Beancount recipe for associated at-cost bookkeeping of each transaction.~~
 - ~~Make a demo/proof-of-concept where you record a few dummy transactions representing various stages of the production lifecycle for e.g. JabSok and JabKis and then practice querying which cost lots of which materials you have in inventory at any given time over the production period.~~
-- Meatspace/computer workflow for recording changes in 320, 602, and 630 inventory accounts during each phase of production (e.g. notebook in basement coupled with secondary Beancount ledger).
+- Meatspace infrastructure to support recording changes in 320, 602, and 630 inventory accounts during each phase of production (e.g. notebook in basement coupled with secondary Beancount ledger).
 
 ### Establish inventory
 
@@ -196,9 +200,10 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 Establish facilities for inventory-related workflows:
 
 - ~~Arrange basement so family reserves of pickles/preserves/drinks/Gaia-products-set-aside-for-home-use etc. are in a separate part of the basement from Gaia inventory.~~
-- Workflow for delabeling returned bottles
-- Workflow for cleaning returned bottles and storing for future use
+- Workflow for delabeling returned bottles (can be in štala by water faucet!)
+- Workflow for cleaning returned bottles and storing for future use (can be in štala by water faucet!)
 - Establish clean, dedicated storage space for packaging (bottles, caps, etc.) and labels
+- Make a "photo studio" where you have a nice, well-lit wooden table with a white background on which you will take product pictures
 
 ### JabSok
 
@@ -222,8 +227,13 @@ Have IBCs and kisarna nice and clean, have basement organized with nice stacks o
 
 ### Office
 
-Meatspace/office: place to store all relevant legal documents and akts.
-Ensure each has a corresponding electronic scan in a well-defined location on file system.
+Set up an office in the attic to use as a dedicated Gaia space:
+
+- Set up a computer desk with monitor and comfortable chair
+- Clean out existing attic cabinets/drawers/shelves to repurpose for storing Gaia materials
+- Sort through all relevant legal documents, akts, receipts, etc.; classify by document type; determine what needs to be stored
+- Make electronic scans of all need-to-be-stored documents; ensure each has a corresponding electronic scan in a well-defined location on file system.
+- Store physical documents in well-defined cabinets/shelves in attic office
 
 ## Marketing
 
@@ -258,15 +268,16 @@ Visit family and friends to show the items you are selling at Gaia, ask for advi
 
 - ~~Grok effects of: aperture, shutter speed, and ISO~~
 - ~~Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)~~
+- Prepare "photo studio" where you have a dedicated nice, well-lit wooden table with a white background for frictionlessly taking product pictures without having to lug dining table around the house into a well-lit location
 - Retake all production Gaia images on a DSLR
 
 ### Administrative tasks
 
 - Move hosting of Gaia webmail from Dominik to a host you do business with directly
 - ~~Call up Delovska Hranilnica and cancel mobile banking subscription~~
-- Update GS1 contact information to email/phone I control
 - ~~Regain access to A1 account, and switch contact information to email/phone I control~~
 - ~~Switch A1 internet/phone plan to something more economical~~
 - ~~Resolve AJPES contact info and ensure invoices are sent to an email I control~~
 - Resolve renting a POS terminal to allow credit card payments
+- Update GS1 contact information to email/phone I control
 - Cancel GS1 EAN code contract
