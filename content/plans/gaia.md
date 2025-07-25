@@ -281,3 +281,55 @@ Visit family and friends to show the items you are selling at Gaia, ask for advi
 - Resolve renting a POS terminal to allow credit card payments
 - Update GS1 contact information to email/phone I control
 - Cancel GS1 EAN code contract
+
+## Summer 2025
+
+Gaia business card: contact info and link to website.
+Ideas: SntOlj flowers like SntOlj label; orange color scheme with SntFlower logo; reddish color scheme with three apple logo.
+
+### New products
+
+Establish new Gaia products with good supporting infrastructure:
+
+- Teas: drying rack for drying herbs, storage for dried herbs, storage for packaging bags.
+- Jams: station for washing; bowls/containers for temporary holding and transport; pitting workflow as necessary; storage for canning jars; burner and pots for cooking; burner, pots, canning tongs, rack for canning; storage for finished goods.
+- Dried fruit: station for washing; station for slicing; bowls/containers for temporary holding and transport; station for drying; storage for dried goods.
+- Burt's: dedicated storage for olive oil, coconut oil, and beeswax; double-boilder setup; storage for glass jars; storage for finished goods;
+- Gift boxes: known cut list; jigs for repetive cuts; dedicated storage for stock meant for gift boxes; supply of dedicated screws and nails for gift boxes; finishing station; dedicated storage area
+- Soap: see dedicated notes
+
+### Soap
+
+- Storage for raw ingredients
+- Production station with dedicated tools
+- Molds
+- Curing area
+- Storage area
+
+### Inventory
+
+You need to know how much JabSok330, JabSok750, and JabKis you have to sell via Gaia, as well as available Bottle1000 and Bottle500 for selling JabKis.
+Like frictionless, immediately, so when a wholesale customer asks "how much of X do you have/can you supply" you can rattle the number off immediately.
+
+To do this and have it feel clean you need facilities and storage in place.
+
+### Sales
+
+- StnOlj wholesale: Ask Nada next time in Ljubljana for massage friend's contact info, take from there.
+- JabSok wholesale:
+  - Žan
+  - Klemen
+  - Maj via Oskar
+- Retail:
+  - Nada's contacts next time you're in LJ
+  - Ladeja and Košir's!
+
+### Infrastructure
+
+- Location for "on-show" products at TV47 and LJ16, where if someone visits you at TV47 or LJ16 and hears about Gaia and asks "oh cool can I see your stuff" you just hop to the product area and pull out a few samples.
+- Storage area for kozarci za vlaganje: 720 ml jars, 330 ml jars, assorted size jars, 85 mm lids, assorted size lids.
+- Storage area for tea bags
+- I need more JabSok750 kištas. Spend an hour making frames if nothing else.
+- SntOlj bottling station: bottling 100 ml bottles with 18 mm diameter neck and bottling larger bottles, e.g. 35 mm diameter and up.
+- JabKis bottling: storage area for 5-10 liter jugs; good workflow for filling jugs from IBCs; storage area for filled jugs; storage area for Bottle500 and Bottle1000 and associated caps and inserts; funnels for filling bottles
+- Bottle delabeling and cleaning station: crates to store bottles staged for cleaning, vessel for soaking bottles, water supply, sponges to clean up, crates for delabeled bottles
