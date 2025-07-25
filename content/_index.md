@@ -13,6 +13,10 @@ Roadmaps and plans for a few projects I'm working on:
 - [TV47](/plans/tv47/)
 - [Sensemotion](/plans/sensemotion/) (complete)
 
+TODOs:
+
+- [July 2025](/todo/2025-07/)
+
 Dance:
 
 - [Yoandy](/dance/yoandy)
