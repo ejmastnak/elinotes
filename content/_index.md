@@ -17,16 +17,11 @@ TODOs:
 
 - [July 2025](/todo/2025-07/)
 
-Dance:
+Miscellaneous:
 
-- [Yoandy](/dance/yoandy)
-
-Ricky:
-
-- [Warm-Up June 2025](/ricky/warm-up-2025-06)
-- [Martin Workouts](/ricky/martin-2025-06)
-
-TV47 notes:
-
+- [Gaia cut lists](/gaia/cut-lists)
+- [YoYoFlow exercises](/dance/yoandy)
+- [Ricky Warm-Up June 2025](/ricky/warm-up-2025-06)
+- [Ricky Martin Workouts](/ricky/martin-2025-06)
 - [TV47 earthwork](/tv47/earthwork)
 - [TV47 garden deck](/tv47/garden-deck)
