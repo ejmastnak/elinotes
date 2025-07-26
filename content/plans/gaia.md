@@ -333,3 +333,4 @@ To do this and have it feel clean you need facilities and storage in place.
 - SntOlj bottling station: bottling 100 ml bottles with 18 mm diameter neck and bottling larger bottles, e.g. 35 mm diameter and up.
 - JabKis bottling: storage area for 5-10 liter jugs; good workflow for filling jugs from IBCs; storage area for filled jugs; storage area for Bottle500 and Bottle1000 and associated caps and inserts; funnels for filling bottles
 - Bottle delabeling and cleaning station: crates to store bottles staged for cleaning, vessel for soaking bottles, water supply, sponges to clean up, crates for delabeled bottles
+- Burts production: dedicated storage for olive oil, coconut oil, and beeswax; scale for measuring ingredients; notebook for recording recipes for R&D; dedicated matching pot and bowl for double-boiler; storage for glass jars to hold finished Burts; storage for finished goods.
