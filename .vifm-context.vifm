@@ -1,6 +1,5 @@
 let $VIFM_CONTEXT = expand('%d')
 source $VIFM/navigation/hugo.vifm
 
-nnoremap ;pp :cd $VIFM_CONTEXT/content/plans<CR>
-nnoremap ;rm :cd $VIFM_CONTEXT/content/plans<CR>
+nnoremap ;rm :cd $VIFM_CONTEXT/content/roadmaps<CR>
 nnoremap ;tt :cd $VIFM_CONTEXT/content/todo<CR>

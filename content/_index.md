@@ -8,14 +8,14 @@ description: The home page of the website
 
 Roadmaps and plans for a few projects I'm working on:
 
-- [Gaia](/plans/gaia/)
-- [Found My Phone?](/plans/foundmyphone/)
-- [TV47](/plans/tv47/)
-- [Sensemotion](/plans/sensemotion/) (complete)
+- [Gaia](/roadmaps/gaia/)
+- [Found My Phone?](/roadmaps/foundmyphone/)
+- [TV47](/roadmaps/tv47/)
+- [Sensemotion](/roadmaps/sensemotion/) (complete)
 
 TODOs:
 
-- [July 2025](/todo/2025-07/)
+- [July 2025](/tomorrow-lists/2025-07/)
 
 Miscellaneous:
 
