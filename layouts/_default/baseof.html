@@ -9,7 +9,7 @@
 
     {{ if hugo.IsProduction }}
     {{ $styles := resources.Get "css/tailwind.css" }}
-    {{ $styles = $styles | resources.PostCSS }}
+    {{ $styles = $styles | css.PostCSS }}
     {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
     <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
     {{ else }}
