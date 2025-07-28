@@ -20,7 +20,7 @@ TODOs:
 Miscellaneous:
 
 - [Gaia cut lists](/gaia/cut-lists)
-- [YoYoFlow exercises](/dance/yoandy)
+- [Salsa body movement exercises](/dance/salsa-body-movement)
 - [Ricky Warm-Up June 2025](/ricky/warm-up-2025-06)
 - [Ricky Martin Workouts](/ricky/martin-2025-06)
 - [TV47 earthwork](/tv47/earthwork)
