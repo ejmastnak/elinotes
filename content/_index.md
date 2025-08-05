@@ -20,6 +20,7 @@ TODOs:
 Miscellaneous:
 
 - [Gaia cut lists](/gaia/cut-lists)
+- [Gaia order fulfillment workflows](/gaia/order-fulfillment-workflows)
 - [Salsa body movement exercises](/dance/salsa-body-movement)
 - [Ricky Warm-Up June 2025](/ricky/warm-up-2025-06)
 - [Ricky Martin Workouts](/ricky/martin-2025-06)
