@@ -55,7 +55,7 @@ toc: true
   - shoulder half circle to bring L down and R up while L shoulder goes back and R shoulder comes forward
   - vice versa; repeat
 
-### With basico arm movement
+### With básico arm movement
 
 - **Torso, shoulders, and arms isolation**:
 
@@ -90,7 +90,7 @@ toc: true
 ## Basico: lower body
 
 - **Footwork**
-  
+
   - L foot forward
   - R foot in place
   - L foot back
@@ -122,7 +122,7 @@ toc: true
 
   - L foot forward, hips L
   - R foot in place, hips R
-  - L foot back, hips L 
+  - L foot back, hips L
   - rest
   - R foot back, hips R
   - L foot in place, hips L
@@ -156,9 +156,72 @@ toc: true
 
 ## Footwork variations
 
-Repeat upper body movement with any of the following footworks:
+Repeat hip and upper body movement with any of the following footworks:
 
-  
-## TODO
+- **Básico lateral**
 
-Giros
+  - L foot next to R
+  - R foot in place
+  - L foot L
+  - rest
+  - R foot next to L
+  - L foot in place
+  - R foot R
+  - rest
+  - repeat
+
+- **Básico detrás**
+
+  - L foot behind R, open hips to face L
+  - R foot in place
+  - L foot L, turn hips to face R
+  - rest
+  - R behind L, open hips to face R
+  - L foot in place
+  - R foot R, turn hips to face L
+  - rest
+  - repeat
+
+## Gíros lineales
+
+- **Giro derecho (into ground):**
+
+  - L forward; can point rightward 45 to 90ish degrees to prepare for turn
+  - R turn (into floor) 180-ish degrees to point behind you; hips face behind you.
+  - L wraps around R to complete turn and point forward; hips face forward;
+    L can land behind R so as to shift body weight backward, like on 3 of regular linear básico.
+
+  Complete 360 degree turn on 3 count (open to interpretation).
+  Keep split stance throughout for better balance.
+
+- **Giro izquierdo: (out of ground)**
+
+  - L forward as in standard básico
+  - R in place as in standard básico; can point leftward 45 to 90ish degrees to prepare for turn
+  - L turn (out of floor) 180-ish degrees to point behind you; hip face behind you;
+  - R wraps around L to complete turn and point forward; hips face forward;
+    R can land behind L so as to shift body weight backward, like on 5 of regular linear básico.
+
+  Complete 360 degree turn on 5 count (open to interpretation).
+
+## Giros laterales
+
+Performed from lateral básico.
+
+- **Giro derecho (into ground):**
+
+  - L exaggerated lateral step L to open up body; can point 45ish degrees right to prepare for turn
+  - R pivots to face 3 o'clock; land in split lunge facing 3 o'clock
+  - L hooks around L to complete remaining 270 degrees of turn;
+    weight should land on L foot, preparing you to step R into next half of lateral básico
+
+- **Giro izquierdo (out of ground):**
+
+  - Begin with LRL+rest of standard lateral básico
+  - R exaggerated lateral step R to open up body; can point 45ish degrees left to prepare for turn
+  - R pivots to face 9 o'clock; land in split lunge facing 9 o'clock
+  - R hooks around L to complete remaining 270 degrees of turn;
+    weight should land on R foot, preparing you to step L into next half of lateral básico
+
+- **Variation: giros laterales from linear básico:** perform giros laterales from standard linear básico footwork.
+
