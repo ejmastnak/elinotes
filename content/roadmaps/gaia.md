@@ -193,7 +193,7 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 - Take physical inventory of required items
 - Based on results of inventory-taking, create inventory ledgers for required items
 
-## Facilities
+## Facilities and infrastructure
 
 ### Miscellaneous
 
@@ -205,26 +205,6 @@ Establish facilities for inventory-related workflows:
 - Establish clean, dedicated storage space for packaging (bottles, caps, etc.) and labels
 - Make a "photo studio" where you have a nice, well-lit wooden table with a white background on which you will take product pictures
 
-### JabSok
-
-- ~~Clean existing JabSok bottles of dust/evaporated fruit juice, place in crates, label crates with quantity and lot number. Do this sproti, a gajbica at a time, until suddenly all the JabSok is clean and labeled and inventoried.~~
-- ~~Store JabSok bottles in crates with a well-known, fixed number of bottles per crate, for easy inventory.~~
-- ~~Assemble enough plastic crates to store cca 1000 JabSok330 bottles.~~
-- ~~Build enough wooden crates for cca 1000 bottles of JabSok750. Crates should be solid enough to comfortably carry cca 25 kg of bottles, and modularly stackable to e.g. 4 levels high.~~
-- ~~Label creates with UIDs~~
-- ~~Set up an inventory system to keep track of lot number and number of bottles in each crate, e.g. dedicated notecards, markers, and thumbtacks in basement that can be attached to crates.~~
-
-### JabKis
-
-- Test each of the three cisterns, record subjective differences in taste, qualities, etc..
-- Pressure wash and sweep out štala floor of dust, mold, etc.
-- Pressure wash empty cisterns.
-  Perhaps transfer existing JabKis to cleaned empty cisterns and clean out previously-full cisterns, too.
-- Have a pumping workflow "that works", even just filling 5-liter jugs a crate at a time.
-- Have e.g. 50-100 liters in manageable quantities ready to go at any given time in MiniŠtala on metals shelves
-
-Have IBCs and kisarna nice and clean, have basement organized with nice stacks of gajbicas, have the facilities nice and presentable for visits.
-
 ### Office
 
 Set up an office in the attic to use as a dedicated Gaia space:
@@ -234,6 +214,50 @@ Set up an office in the attic to use as a dedicated Gaia space:
 - Sort through all relevant legal documents, akts, receipts, etc.; classify by document type; determine what needs to be stored
 - Make electronic scans of all need-to-be-stored documents; ensure each has a corresponding electronic scan in a well-defined location on file system.
 - Store physical documents in well-defined cabinets/shelves in attic office
+
+### JabSok
+
+- ~~Clean existing JabSok bottles of dust/evaporated fruit juice, place in crates, label crates with quantity and lot number. Do this sproti, a gajbica at a time, until suddenly all the JabSok is clean and labeled and inventoried.~~
+- ~~Store JabSok bottles in crates with a well-known, fixed number of bottles per crate, for easy inventory.~~
+- ~~Assemble enough plastic crates to store cca 1000 JabSok330 bottles.~~
+- ~~Prototype wooden crate for storing and transporting JabSok750.~~
+  ~~Crates should be solid enough to comfortably carry cca 25 kg of bottles, and modularly stackable to e.g. 4 levels high.~~
+- ~Label JabSok750 creates with UIDs~~
+- ~~Set up convenient system for labelling crates, e.g. Jysk box attached to wall. Should include:~~
+  - ~~Color-coded notecards for writing on~~
+  - ~~Markers/pens for writing on notecards~~
+  - ~~Permanent marker for writing best-by date on bottles~~
+  - ~~Thumbtacks for attaching cards to crates~~
+- ~~Find/purchase/accumulate enough plastic crates to hold cca 1000 bottles of JabSok330, along with a few extra crates to use for staging.~~
+- Build enough wooden crates for cca 1000 bottles of JabSok750, along with a few extra crates to use for staging.
+- ~~Move JabSok and crates to MiniŠtala~~
+- Set up a labelling station in MiniŠtala. Include labelling table, labelling machine, box/jar of spacer jigs, box(es) to hold labels; box for accessories.
+- Separate JabSok into Gaia stock and personal use stock; label each crate using one color for Gaia stock and one for personal use.
+
+### JabKis
+
+- Test each of the three cisterns, record subjective differences in taste, qualities, etc..
+- Remove lingering construction waste and other garbage from štala.
+- Pressure wash and sweep out štala floor of dust, mold, etc.
+- Pressure wash empty cisterns.
+  Perhaps transfer existing JabKis to cleaned empty cisterns and clean out previously-full cisterns, too.
+- Set up a pumping workflow that can transfer JabKis between IBCs.
+- Classify and label each IBC as either home use or Gaia use.
+- Staging jugs: acquire enough 3-5 liter food-safe HDPE jugs to hold e.g. 25 L personal and 25 L Gaia use; label each jug according to personal use or Gaia use.
+- Set up a friction-free bottling mechanism for filling jugs/bottles from IBCs.
+- Have bottles, caps, and stoppers for JabKis stored in crates in MalaŠtala.
+- Set up a bottling station for filling JabKis from funnel—sink with drainage, water supply, and funnel(s) conveniently hanging on wall, towels/rags for wiping down spills.
+
+### StnOlj
+
+Bottling station for filling SntOlj from funnel—sink with drainage, water supply, and funnel(s) conveniently hanging on wall, paper towels for wiping down spills.
+
+- Label each 5 L glass jug as either home use or Gaia use.
+- Staging jugs: acquire enough 0.75 to 1 liter glass bottles to hold e.g. 5 L personal and 5 L Gaia use; label each bottle according to personal use or Gaia use.
+- Set up a friction-free bottling mechanism for filling staging bottles from 5 L jugs.
+- Set up a friction-free bottling mechanism for filling Bottle100 from 5 L jugs and staging bottles.
+- Have bottles, caps, and stoppers for StnOlj stored in crates in MalaŠtala.
+- Set up a bottling station for filling SntOlj from funnel—sink with drainage, water supply, and funnel(s) conveniently hanging on wall, paper towels and detergent for cleaning up spills.
 
 ## Marketing
 
