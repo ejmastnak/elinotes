@@ -16,6 +16,7 @@ Roadmaps and plans for a few projects I'm working on:
 TODOs:
 
 - [July 2025](/tomorrow-lists/2025-07/)
+- [August 2025](/tomorrow-lists/2025-08/)
 
 Miscellaneous:
 
