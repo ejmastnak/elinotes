@@ -11,6 +11,7 @@ Roadmaps and plans for a few projects I'm working on:
 - [Gaia](/roadmaps/gaia/)
 - [Found My Phone?](/roadmaps/foundmyphone/)
 - [TV47](/roadmaps/tv47/)
+- [EliPortfolio](/roadmaps/portfolio/)
 - [Sensemotion](/roadmaps/sensemotion/) (complete)
 
 TODOs:
