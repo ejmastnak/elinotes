@@ -27,3 +27,7 @@ description: Cut lists for Gaia projects
 | 1.5 x 5.6 | 29 | 3 | bottom |
 
 **Note:** Sides can be 3.5 to 4-ish wide; bottom can be 5.5 to 5.75-ish wide.
+
+## Sawhorses
+
+![Sawhorse](/gaia/cad/sawhorses.png)
