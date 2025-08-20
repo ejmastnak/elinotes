@@ -98,10 +98,10 @@ toc: true
 
 ### BeforeMayUSA2025 website additions
 
-- ~~Travniski sadovnjak~~
-- ~~Sorte jablan~~
-- "kid (family) trying to make a business happen" story
-- "sell botique eko products at reasonable prices" story
+- ~~Travniski sadovnjak page describing meadow orchard definition and cultural/ecological significance, with pictures from TV47~~
+- ~~Sorte jablan page with pictures and descriptions/history of each apple variety on the farm~~
+- "Kid (family) trying to make a business happen" story
+- "Sell botique eko products at reasonable prices" story
 
 ### Online shop
 
@@ -177,22 +177,6 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 - ~~Draft all legal documents needed for direktorstvo transfer~~
 - ~~Sign and store copies of *Pogodba o poslovodenju*~~
 
-## Inventory
-
-### Research and bookkeeping workflows
-
-- ~~Clearly enumerate which inventory items must be kept track of in a dedicated inventory ledger to be compliant with SRS~~
-- ~~Document SRS-compliant format of inventory ledgers~~
-- ~~Do `the_bottles`, an analog of `the_apples` for inventory bookkeeping: enumerate transactions (e.g. purchase of empty bottles, consuming of bottles to produce juice, labelling bottles, selling juice, etc.).~~
- ~~Record Beancount recipe for associated at-cost bookkeeping of each transaction.~~
-- ~~Make a demo/proof-of-concept where you record a few dummy transactions representing various stages of the production lifecycle for e.g. JabSok and JabKis and then practice querying which cost lots of which materials you have in inventory at any given time over the production period.~~
-- Meatspace infrastructure to support recording changes in 320, 602, and 630 inventory accounts during each phase of production (e.g. notebook in basement coupled with secondary Beancount ledger).
-
-### Establish inventory
-
-- Take physical inventory of required items
-- Based on results of inventory-taking, create inventory ledgers for required items
-
 ## Facilities and infrastructure
 
 ### Miscellaneous
@@ -259,6 +243,37 @@ Bottling station for filling SntOlj from funnel—sink with drainage, water supp
 - Have bottles, caps, and stoppers for StnOlj stored in crates in MalaŠtala.
 - Set up a bottling station for filling SntOlj from funnel—sink with drainage, water supply, and funnel(s) conveniently hanging on wall, paper towels and detergent for cleaning up spills.
 
+### Supporting infrastructure for products
+
+- ~~Location for "on-show" products at TV47 and LJ16, where if someone visits you at TV47 or LJ16 and hears about Gaia and asks "oh cool can I see your stuff" you just hop to the product area and pull out a few samples.~~
+- ~~Storage area for kozarci za vlaganje: 720 ml jars, 330 ml jars, assorted size jars, 85 mm lids, assorted size lids.~~
+- ~~Storage area for tea bags~~
+- ~~JabKis bottling: storage area for 5-10 liter jugs; good workflow for filling jugs from IBCs; storage area for filled jugs; storage area for Bottle500 and Bottle1000 and associated caps and inserts; funnels for filling bottles~~
+- I need more JabSok750 kištas: make enough kištas to hold e.g. 1000 bottles of JabSok750.
+- Set up a stainless-steel sink in štala to use for washing, product testing, etc.
+- SntOlj bottling station: bottling 100 ml bottles with 18 mm diameter neck and bottling larger bottles, e.g. 35 mm diameter and up.
+- Bottle delabeling and cleaning station: crates to store bottles staged for cleaning, vessel for soaking bottles, water supply, sponges to clean up, crates for delabeled bottles
+- Burts production: dedicated storage for olive oil, coconut oil, and beeswax; scale for measuring ingredients; notebook for recording recipes for R&D; double boiler setup; storage for glass jars to hold finished Burts; storage for finished goods.
+
+## Inventory
+
+You need to know how much JabSok330, JabSok750, and JabKis you have to sell via Gaia, as well as available Bottle1000 and Bottle500 for selling JabKis.
+Like frictionless, immediately, so when a wholesale customer asks "how much of X do you have/can you supply" you can rattle the number off immediately.
+
+### Research and bookkeeping workflows
+
+- ~~Clearly enumerate which inventory items must be kept track of in a dedicated inventory ledger to be compliant with SRS~~
+- ~~Document SRS-compliant format of inventory ledgers~~
+- ~~Do `the_bottles`, an analog of `the_apples` for inventory bookkeeping: enumerate transactions (e.g. purchase of empty bottles, consuming of bottles to produce juice, labelling bottles, selling juice, etc.).~~
+ ~~Record Beancount recipe for associated at-cost bookkeeping of each transaction.~~
+- ~~Make a demo/proof-of-concept where you record a few dummy transactions representing various stages of the production lifecycle for e.g. JabSok and JabKis and then practice querying which cost lots of which materials you have in inventory at any given time over the production period.~~
+- Meatspace infrastructure to support recording changes in 320, 602, and 630 inventory accounts during each phase of production (e.g. notebook in basement coupled with secondary Beancount ledger).
+
+### Establish inventory
+
+- Take physical inventory of required items
+- Based on results of inventory-taking, create inventory ledgers in Beancount for relevant items
+
 ## Marketing
 
 ### Pricing investigation
@@ -268,23 +283,38 @@ Bottling station for filling SntOlj from funnel—sink with drainage, water supp
 - ~~Write simple scripts to find average price liter under given constraints (e.g. bio/not bio, Slovene/not Slovene, by store, etc.)~~
 - ~~Investigate graphs/charts/etc. for presenting data~~
 
-### Visits and pitches
+### Visits and spreading word
 
-Visit family and friends to show the items you are selling at Gaia, ask for advice and contacts, pitch products:
+~~Visit family and friends to show the items you are selling at Gaia, ask for advice and contacts, pitch products:~~
 
 - ~~Srečo and Nada~~
 - ~~Matjaž and Cvetka~~
 - ~~Oskar~~
 - ~~Pretners~~
 
+### Sales
+
+- StnOlj wholesale: Ask Nada next time in Ljubljana for massage friend's contact info, take from there.
+- JabSok wholesale; try reaching out to:
+  - ~~Žan~~
+  - Klemen
+  - Maj via Oskar
+- Retail:
+  - Nada's contacts next time you're in LJ
+  - Ladeja and Koširs!
+
+## Product R&D
+
+Establish new Gaia products with good supporting infrastructure:
+
+- Teas: drying rack for drying herbs, vessels for intermediate transfer/transport; storage for dried herbs, storage for packaging bags.
+- Jams: station for washing; bowls/containers for temporary holding and transport; pitting workflow as necessary; storage for canning jars; burner and pots for cooking; burner, pots, canning tongs, rack for canning; storage for finished goods.
+- ~~Dried fruit: station for washing; station for slicing; bowls/containers for temporary holding and transport; station for drying; storage for dried goods.~~
+- Burt's: dedicated storage for olive oil, coconut oil, and beeswax; double-boilder setup; storage for glass jars; storage for finished goods;
+- Gift boxes: known cut list; jigs for repetive cuts; dedicated storage for stock meant for gift boxes; supply of dedicated screws and nails for gift boxes; finishing station; dedicated storage area
+- Soap: storage for raw ingredients; production station with dedicated tools; molds; curing area; storage area;
+
 ## Side quests
-
-### Product R&D
-
-- Soap: create molds, purchase thermometer, prepare recipes.
-- Soap: create soaps as per recipes, label each batch in preparation for future reflections, set to cure.
-- Burts: create recipes (varying ratios of liquid fat, solid fat, and bee's wax) to test.
--  Burts: create burts as per recipes, label each batch in preparation for reflections. Iterate.
 
 ### Photography
 
@@ -292,8 +322,8 @@ Visit family and friends to show the items you are selling at Gaia, ask for advi
 
 - ~~Grok effects of: aperture, shutter speed, and ISO~~
 - ~~Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)~~
-- Prepare "photo studio" where you have a dedicated nice, well-lit wooden table with a white background for frictionlessly taking product pictures without having to lug dining table around the house into a well-lit location
-- Retake all production Gaia images on a DSLR
+- ~~Prepare "photo studio" where you have a dedicated nice, well-lit wooden table with a white background for frictionlessly taking product pictures without having to lug dining table around the house into a well-lit location~~
+- Retake all production Gaia images on a DSLR, both for practice and to have good images
 
 ### Administrative tasks
 
@@ -306,55 +336,8 @@ Visit family and friends to show the items you are selling at Gaia, ask for advi
 - Update GS1 contact information to email/phone I control
 - Cancel GS1 EAN code contract
 
-## Summer 2025
+### Business card
 
 Gaia business card: contact info and link to website.
 Ideas: SntOlj flowers like SntOlj label; orange color scheme with SntFlower logo; reddish color scheme with three apple logo.
 
-### New products
-
-Establish new Gaia products with good supporting infrastructure:
-
-- Teas: drying rack for drying herbs, storage for dried herbs, storage for packaging bags.
-- Jams: station for washing; bowls/containers for temporary holding and transport; pitting workflow as necessary; storage for canning jars; burner and pots for cooking; burner, pots, canning tongs, rack for canning; storage for finished goods.
-- Dried fruit: station for washing; station for slicing; bowls/containers for temporary holding and transport; station for drying; storage for dried goods.
-- Burt's: dedicated storage for olive oil, coconut oil, and beeswax; double-boilder setup; storage for glass jars; storage for finished goods;
-- Gift boxes: known cut list; jigs for repetive cuts; dedicated storage for stock meant for gift boxes; supply of dedicated screws and nails for gift boxes; finishing station; dedicated storage area
-- Soap: see dedicated notes
-
-### Soap
-
-- Storage for raw ingredients
-- Production station with dedicated tools
-- Molds
-- Curing area
-- Storage area
-
-### Inventory
-
-You need to know how much JabSok330, JabSok750, and JabKis you have to sell via Gaia, as well as available Bottle1000 and Bottle500 for selling JabKis.
-Like frictionless, immediately, so when a wholesale customer asks "how much of X do you have/can you supply" you can rattle the number off immediately.
-
-To do this and have it feel clean you need facilities and storage in place.
-
-### Sales
-
-- StnOlj wholesale: Ask Nada next time in Ljubljana for massage friend's contact info, take from there.
-- JabSok wholesale:
-  - Žan
-  - Klemen
-  - Maj via Oskar
-- Retail:
-  - Nada's contacts next time you're in LJ
-  - Ladeja and Košir's!
-
-### Infrastructure
-
-- Location for "on-show" products at TV47 and LJ16, where if someone visits you at TV47 or LJ16 and hears about Gaia and asks "oh cool can I see your stuff" you just hop to the product area and pull out a few samples.
-- Storage area for kozarci za vlaganje: 720 ml jars, 330 ml jars, assorted size jars, 85 mm lids, assorted size lids.
-- Storage area for tea bags
-- I need more JabSok750 kištas. Spend an hour making frames if nothing else.
-- SntOlj bottling station: bottling 100 ml bottles with 18 mm diameter neck and bottling larger bottles, e.g. 35 mm diameter and up.
-- JabKis bottling: storage area for 5-10 liter jugs; good workflow for filling jugs from IBCs; storage area for filled jugs; storage area for Bottle500 and Bottle1000 and associated caps and inserts; funnels for filling bottles
-- Bottle delabeling and cleaning station: crates to store bottles staged for cleaning, vessel for soaking bottles, water supply, sponges to clean up, crates for delabeled bottles
-- Burts production: dedicated storage for olive oil, coconut oil, and beeswax; scale for measuring ingredients; notebook for recording recipes for R&D; dedicated matching pot and bowl for double-boiler; storage for glass jars to hold finished Burts; storage for finished goods.
