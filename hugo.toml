@@ -1,5 +1,0 @@
-baseURL = 'https://elinotes.ejmastnak.com/'
-languageCode = 'en-us'
-title = 'Eli Notes'
-
-disableKinds = ['taxonomy', 'term', 'section']
