@@ -12,8 +12,6 @@ description: Protocol for recovering passwords from backup
 - Gain access to my SSH keys and access to all SSH hosts
 - Gain access to my Slovene digitalno potrdilo and install it on a web browser on the new computer
  
-[Password management homepage](/notes/passwords/passwords).
-
 ## You need the following
 
 - A computer with [GPG](https://gnupg.org/) and [pass](https://www.passwordstore.org/) installed

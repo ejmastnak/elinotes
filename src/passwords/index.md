@@ -8,7 +8,7 @@ description: Some notes on password management
 
 Some of my notes on password management:
 
-- [Backup](/notes/passwords/backup)
-- [Restore from backup](/notes/passwords/restore)
-- [Managing p12 certificates](/notes/passwords/p12)
+- [Backup](./backup)
+- [Restore from backup](./restore)
+- [Managing p12 certificates](./p12)
 

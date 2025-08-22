@@ -30,4 +30,4 @@ description: Cut lists for Gaia projects
 
 ## Sawhorses
 
-![Sawhorse](/gaia/cad/sawhorses.png)
+![Sawhorse](./sawhorses.png)

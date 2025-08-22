@@ -7,7 +7,6 @@ description: Protocol for backing up my passwords
 # Password backup protocol
 
 **The goal:** back up my password store and `pass` private key in an encrypted form that can later be used with my password recovery protocol.
-[Password management homepage](/notes/passwords/passwords).
 
 ## Hardware
 
