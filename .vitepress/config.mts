@@ -5,25 +5,37 @@ export default defineConfig({
   title: "EliNotes",
   description: "EliNotes",
   srcDir: 'src',
+
+  // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
+      { text: 'Tomorrow lists', link: '/tomorrow-lists/' },
+      { text: 'Roadmaps', link: '/roadmaps/' },
+      { text: 'Ricky', link: '/ricky/' },
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Tomorrow Lists',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Index', link: '/tomorrow-lists/' },
+          { text: 'August 2025', link: '/tomorrow-lists/2025-08' },
+          { text: 'July 2025', link: '/tomorrow-lists/2025-07' },
         ]
-      }
+      },
+      {
+        text: 'Roadmaps',
+        items: [
+          { text: 'Index', link: '/roadmaps/' },
+          { text: 'Gaia', link: '/roadmaps/gaia' },
+          { text: 'EliPortfolio', link: '/roadmaps/portfolio' },
+          { text: 'Hišna Številka', link: '/roadmaps/hisna-stevilka' },
+          { text: 'TV47', link: '/roadmaps/tv47' },
+          { text: 'LJ16', link: '/roadmaps/lj16' },
+        ]
+      },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
   }
 })
