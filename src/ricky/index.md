@@ -8,11 +8,11 @@ description: Index page for Ricky Workouts
 
 ## Level 2 MTWT workout cards
 
-- [Monday](/ricky/pdf/l2/monday.pdf)
-- [Tuesday](/ricky/pdf/l2/tuesday.pdf)
-- [Wednesday](/ricky/pdf/l2/wednesday.pdf)
-- [Thursday](/ricky/pdf/l2/thursday.pdf)
-- [Saturday](/ricky/pdf/l2/saturday.pdf)
+- [Monday](/ricky/l2/monday.pdf)
+- [Tuesday](/ricky/l2/tuesday.pdf)
+- [Wednesday](/ricky/l2/wednesday.pdf)
+- [Thursday](/ricky/l2/thursday.pdf)
+- [Saturday](/ricky/l2/saturday.pdf)
 
 ## Summer 2025 notes
 
