@@ -2,3 +2,7 @@ let $VIFM_CONTEXT = expand('%d')
 
 source $VIFM/navigation/vitepress.vifm
 nnoremap ;tt :goto $VIFM_CONTEXT/TODO.md<CR>
+nnoremap ;pp :cd $VIFM_CONTEXT/src/public<CR>
+
+nnoremap ;rm :cd $VIFM_CONTEXT/src/roadmaps<CR>
+nnoremap ;rr :cd $VIFM_CONTEXT/src/ricky<CR>
