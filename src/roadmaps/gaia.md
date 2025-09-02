@@ -104,7 +104,7 @@ description: Roadmap for developing Gaia
 
 ### Online shop
 
-Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order):
+~~Create a web app that allows customers to place orders from website (so have a backend with a database of products, and admin interface for managing products, and a frontend where a customer can assemble an order):~~
 
 - ~~Create CRUD Laravel web app for Gaia's products and orders~~
 - ~~Prototype frontend design using e.g. Tailwind UI e-shop example as inspiration~~
@@ -183,17 +183,17 @@ Either find, set up, and learn to use some sort of Slovene-oriented bookkeeping 
 Establish facilities for inventory-related workflows:
 
 - ~~Arrange basement so family reserves of pickles/preserves/drinks/Gaia-products-set-aside-for-home-use etc. are in a separate part of the basement from Gaia inventory.~~
+- ~~Make a "photo studio" where you have a nice, well-lit wooden table with a white background on which you will take product pictures~~
 - Workflow for delabeling returned bottles (can be in štala by water faucet!)
 - Workflow for cleaning returned bottles and storing for future use (can be in štala by water faucet!)
 - Establish clean, dedicated storage space for packaging (bottles, caps, etc.) and labels
-- Make a "photo studio" where you have a nice, well-lit wooden table with a white background on which you will take product pictures
 
 ### Office
 
 Set up an office in the attic to use as a dedicated Gaia space:
 
-- Set up a computer desk with monitor and comfortable chair
-- Clean out existing attic cabinets/drawers/shelves to repurpose for storing Gaia materials
+- ~~Set up a computer desk with monitor and comfortable chair~~
+- ~~Clean out existing attic cabinets/drawers/shelves to repurpose for storing Gaia materials~~
 - Sort through all relevant legal documents, akts, receipts, etc.; classify by document type; determine what needs to be stored
 - Make electronic scans of all need-to-be-stored documents; ensure each has a corresponding electronic scan in a well-defined location on file system.
 - Store physical documents in well-defined cabinets/shelves in attic office
@@ -212,14 +212,15 @@ Set up an office in the attic to use as a dedicated Gaia space:
   - ~~Permanent marker for writing best-by date on bottles~~
   - ~~Thumbtacks for attaching cards to crates~~
 - ~~Find/purchase/accumulate enough plastic crates to hold cca 1000 bottles of JabSok330, along with a few extra crates to use for staging.~~
-- Build enough wooden crates for cca 1000 bottles of JabSok750, along with a few extra crates to use for staging.
 - ~~Move JabSok and crates to MiniŠtala~~
-- Set up a labelling station in MiniŠtala. Include labelling table, labelling machine, box/jar of spacer jigs, box(es) to hold labels; box for accessories.
-- Separate JabSok into Gaia stock and personal use stock; label each crate using one color for Gaia stock and one for personal use.
+- ~~Set up a labelling station in MiniŠtala. Include labelling table, labelling machine, box/jar of spacer jigs, box(es) to hold labels; box for accessories.~~
+- ~~Separate JabSok into Gaia stock and personal use stock; label each crate using one color for Gaia stock and one for personal use.~~
+- Build enough wooden crates for cca 1000 bottles of JabSok750, along with a few extra crates to use for staging.
 
 ### JabKis
 
-- Test each of the three cisterns, record subjective differences in taste, qualities, etc..
+- ~~Test each of the three cisterns, record subjective differences in taste, qualities, etc..~~
+- ~~Set up a friction-free bottling mechanism for filling jugs/bottles from IBCs.~~
 - Remove lingering construction waste and other garbage from štala.
 - Pressure wash and sweep out štala floor of dust, mold, etc.
 - Pressure wash empty cisterns.
@@ -227,7 +228,6 @@ Set up an office in the attic to use as a dedicated Gaia space:
 - Set up a pumping workflow that can transfer JabKis between IBCs.
 - Classify and label each IBC as either home use or Gaia use.
 - Staging jugs: acquire enough 3-5 liter food-safe HDPE jugs to hold e.g. 25 L personal and 25 L Gaia use; label each jug according to personal use or Gaia use.
-- Set up a friction-free bottling mechanism for filling jugs/bottles from IBCs.
 - Have bottles, caps, and stoppers for JabKis stored in crates in MalaŠtala.
 - Set up a bottling station for filling JabKis from funnel—sink with drainage, water supply, and funnel(s) conveniently hanging on wall, towels/rags for wiping down spills.
 
@@ -293,11 +293,11 @@ Like frictionless, immediately, so when a wholesale customer asks "how much of X
 
 ### Sales
 
-- StnOlj wholesale: Ask Nada next time in Ljubljana for massage friend's contact info, take from there.
+- StnOlj wholesale: Nada's massage friend and contacts
 - JabSok wholesale; try reaching out to:
   - ~~Žan~~
+  - ~~Maj via Oskar~~
   - Klemen
-  - Maj via Oskar
 - Retail:
   - Nada's contacts next time you're in LJ
   - Ladeja and Koširs!

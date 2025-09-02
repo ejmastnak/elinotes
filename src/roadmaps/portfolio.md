@@ -16,8 +16,8 @@ description: EliPortfolio
 - ~~Decide pictures/screenshots to include and features to present for SPM signal analysis~~
 - ~~Sketch of features of ChatTMG (include publications, demonstration videos, etc.)~~
 - ~~ChatTMG: research migration to Responses API; understand RAG/tokenizing/chunking/embedding at a technical level; research options for file-augmented TMG-related knowledge for chatbot.~~
-- Proof of concept API documentation page for `tmg-toolkit` Python library, e.g. using Sphynx
-- Outline of technical write-up: using SPM to detect potentiation (input data, algorithm/analysis, results/takeaways)
+- ~~Research proof of concept API documentation page for `tmg-toolkit` Python library, e.g. using Sphynx/MkDocs/etc.~~
+- ~~Outline of technical write-up: using SPM to detect potentiation (input data, algorithm/analysis, results/takeaways)~~
 
 ### Gaia
 
@@ -38,7 +38,7 @@ description: EliPortfolio
   - ~~In each C program, write a block comment at the top explaining the program's role in the big picture~~
   - ~~Write markdown files showing how the individual C programs fit together and exchange information~~
   - ~~Write markdown files explaining how the hardware and software interact and exchange information~~
-- MC binary decoder: document code, place in Git repo, refactor to best practices as necessary
+- ~~MC binary decoder: document code, place in Git repo, refactor to best practices as necessary~~
 - ChatTMG: migrate to Responses API; document recipe for creating a chatbot with responses API
 
 ### Gaia
