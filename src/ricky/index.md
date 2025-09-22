@@ -6,6 +6,8 @@ description: Index page for Ricky Workouts
 
 # Ricky Workouts
 
+[Program](./program)
+
 ## Level 2 MTWT workout cards
 
 - [Monday](/ricky/l2/monday.pdf)
