@@ -8,7 +8,11 @@ title: Muscle-Up Conditioning
 
 Ball Walks 2 x 20 yards<br>
 Foam Roller Walks 2 x 20 yards<br>
-Shoulder Rotator Warm-Up 1 x 1 set<br>
+**Shoulder Rotator Warm-Up**<br>
+&nbsp;&nbsp;&nbsp;Standing Bent-Arm Shoulder Rotators with ABD 1 x 15 reps es<br>
+&nbsp;&nbsp;&nbsp;Standing Shoulder PNFs with ABD 1 x 15 reps es<br>
+&nbsp;&nbsp;&nbsp;Standing Bent-Arm Shoulder Rotators with ADD 1 x 15 reps es<br>
+&nbsp;&nbsp;&nbsp;Standing Rhomboid Cable Pulls 1 x 15 reps<br>
 Standing Rhomboid Pull-Ups 1 x 12 reps<br>
 Leaning Rhomboid Cable Pull-Ups 3 x 8-6-8 reps hlr<br>
 Jumping Straight-Bar Dips 3 x 8-6-8 reps hlr<br>
