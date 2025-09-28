@@ -326,7 +326,7 @@ Establish new Gaia products with good supporting infrastructure:
 
 ### Administrative tasks
 
-- Move hosting of Gaia webmail from Dominik to a host you do business with directly
+- ~~Move hosting of Gaia webmail from Dominik to a host you do business with directly~~
 - ~~Call up Delovska Hranilnica and cancel mobile banking subscription~~
 - ~~Regain access to A1 account, and switch contact information to email/phone I control~~
 - ~~Switch A1 internet/phone plan to something more economical~~

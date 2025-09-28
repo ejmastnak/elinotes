@@ -39,7 +39,12 @@ description: EliPortfolio
   - ~~Write markdown files showing how the individual C programs fit together and exchange information~~
   - ~~Write markdown files explaining how the hardware and software interact and exchange information~~
 - ~~MC binary decoder: document code, place in Git repo, refactor to best practices as necessary~~
-- ChatTMG: migrate to Responses API; document recipe for creating a chatbot with responses API
+- ~~ChatTMG: migrate ChatTMG to Responses API; implement streaming; document recipe for creating a streamed chatbot with Responses API~~
+- ~~TMG Toolkit/SPM presentation: prepare inteactive demo page where users can interact with interface~~
+- ~~TMG Toolkit/SPM presentation: re-write user guide to be actionable~~
+- ~~TMG Toolkit/SPM presentation: re-do auth workflow to protect POST routes for SPM analysis, but to allow visits to SPM page. Similar to e.g. EliMusic.~~
+  ~~Record recipe at e.g. `laravel/axios/protect-post-and-error-on-403`~~
+- ~~Critically review ListeningToMuscles presentation page and write up changes to make presentable as a portfolio project.~~
 
 ### Gaia
 
@@ -51,26 +56,25 @@ description: EliPortfolio
 
 ### VitePress infrastructure
 
-- Create a VitePress site to store Portfolio
-- Learn and document necessary VitePress skills for presenting content: including static assets, optimizing images, highlighted code blocks, LaTeX-like mathematical formulae
-- Publish site at `portfolio.ejmastnak.com`
+- ~~Create a VitePress site to store Portfolio~~
+- ~~Learn and document necessary VitePress skills for presenting content: including static assets, optimizing images, highlighted code blocks, LaTeX-like mathematical formulae~~
+- ~~Publish site at `portfolio.ejmastnak.com`~~
 
 ### TMG implementation
 
-- MC binary decoder technical write-up
+- ~~MC binary decoder technical write-up~~
+- ~~Publish and polish API documentation page for TMG toolkit~~
 - TMG parameter computation algorithm technical write-up
 - ChatTMG technical write-up
-- Publish and polish API documentation page for TMG toolkit
-- TMG Toolkit/SPM presentation: take screenshots; record demo video showing upload workflow
-- TMG Toolkit/SPM presentation: re-write user guide to be actionable
-- TMG Toolkit/SPM presentation: re-do auth workflow to protect POST routes for SPM analysis, but to allow visits to SPM page. Similar to e.g. EliNotes. Record recipe at e.g. `laravel/axios/protect-post-and-error-on-403`
-  Consolidate with `/home/ej/Documents/notes/tech/software/web/inertia/axios-errors.md`.
-- Critically review ListeningToMuslces presentation page and write up changes to make presentable as a portfolio project
+- TMG Toolkit/SPM presentation: take screenshots and create interactive demo page with sample results
+- Future: ListeningToMuscles presentation page 
 
 ### Gaia implementation
 
+- Technical write-up of PDF generation workflow via Jinja with Laravel backend
+- Presentation of web shop and website
+- Technical write-up: SSG with i18n and Vue in the context of Gaia website
 - Technical write-up for `the-apples.md` accounting workflows, e.g. through the lens of "small business accounting in Slovenia"
 - Scribus color management technical write-up
 - UPNQR technical write-up
 - TLDR/bullet-list "breakdown of LabelProfi order" describing each technical term, with pictures.
-- Technical write-up of PDF generation workflow
