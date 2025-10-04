@@ -7,8 +7,8 @@ hero:
   tagline: Personal notes, TODOs, plans, roadmaps, etc.
   actions:
     - theme: brand
-      text: September 2025 tomorrow lists
-      link: /tomorrow-lists/2025-09
+      text: October 2025 tomorrow lists
+      link: /tomorrow-lists/2025-10
     - theme: alt
       text: Gaia roadmap
       link: /roadmaps/gaia
