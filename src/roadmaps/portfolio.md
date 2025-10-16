@@ -50,7 +50,7 @@ description: EliPortfolio
 
 - ~~UPN QR: place code in a git repo, refactor to a user-friendly API that accepts a dict of UPN data as input, switch to proper Python package directory structure~~
 - ~~UPN QR: make a basic but "proper" test: begin with dummy serialized data (e.g. in a JSON/YAML file), encode as UPN QR, decode QR to text with e.g. `zbarimg`, ensure lines in text match up with corresponding fields in original serialized data~~
-- COBISS grind: borrow Turk's Računovodstvo again, sit down at the library, grind out `the-apples.md` and `the-bottles.md` to be fully SRS/Turk complete and compliant from opening books that year to closing accounts for that year; then make a write-up for each noting all the details and caveats and tricks and so on to be aware of.
+- COBISS grind: borrow Turk's Računovodstvo again, sit down at MKL, grind out `the-apples.md` and `the-bottles.md` to be fully SRS/Turk complete and compliant from opening books that year to closing accounts for that year; then make a write-up for each noting all the details and caveats and tricks and so on to be aware of.
 
 ## Implementation
 

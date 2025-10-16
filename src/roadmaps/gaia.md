@@ -293,14 +293,12 @@ Like frictionless, immediately, so when a wholesale customer asks "how much of X
 
 ### Sales
 
-- StnOlj wholesale: Nada's massage friend and contacts
-- JabSok wholesale; try reaching out to:
+- Contacts: try reaching out for leads/advice to:
   - ~~Žan~~
   - ~~Maj via Oskar~~
   - Klemen
-- Retail:
-  - Nada's contacts next time you're in LJ
-  - Ladeja and Koširs!
+- StnOlj wholesale: Nada's massage friend and contacts
+- Research possible wholesale customers for JabSok in LJ: fancy "Slovenian" local-goods restaurants, stores, etc.; come up with a list of e.g. 5-10 possible customers
 
 ## Product R&D
 
@@ -322,6 +320,7 @@ Establish new Gaia products with good supporting infrastructure:
 - ~~Grok effects of: aperture, shutter speed, and ISO~~
 - ~~Prepare and practice list of pedagogical exercises for learning to control above parameters (e.g. take close-up picture of object with a blurred backgrouund, take a clear picture of a fast-moving object like a fan blade, etc.)~~
 - ~~Prepare "photo studio" where you have a dedicated nice, well-lit wooden table with a white background for frictionlessly taking product pictures without having to lug dining table around the house into a well-lit location~~
+- Build background boards for portable photography table/stand
 - Retake all production Gaia images on a DSLR, both for practice and to have good images
 
 ### Administrative tasks
@@ -339,4 +338,3 @@ Establish new Gaia products with good supporting infrastructure:
 
 Gaia business card: contact info and link to website.
 Ideas: SntOlj flowers like SntOlj label; orange color scheme with SntFlower logo; reddish color scheme with three apple logo.
-
