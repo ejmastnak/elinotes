@@ -53,7 +53,8 @@ Single-Leg RDL 2 x 8 reps es<br>
 Single-Leg Squat 2 x 5 reps es<br>
 **Exercise Ball Hamstring Combo**<br>
 &nbsp;&nbsp;&nbsp;Double Leg Hamstring Curl 1 x 15 reps<br>
-&nbsp;&nbsp;&nbsp;Single-Leg Hamstring Curl 2 x 8 reps es<br>
+&nbsp;&nbsp;&nbsp;Single-Leg Hamstring Curl 2 x 5 reps es<br>
+&nbsp;&nbsp;&nbsp;Single-Leg Hamstring Curl With Single-Leg Hip Thrust 1 x 5 reps es<br>
 &nbsp;&nbsp;&nbsp;Roadrunners 1 x 30 seconds<br>
 **Thursday Pull-Up and Biceps Combo**<br>
 &nbsp;&nbsp;&nbsp;Neutral Grip Pull-Ups 1 x 12 reps<br>

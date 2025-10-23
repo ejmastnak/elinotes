@@ -44,9 +44,10 @@ Single-Leg Kettlebell Upright 2 x 8 reps es<br>
 &nbsp;&nbsp;&nbsp;Terminal Knee Extension Squat 1 x 8 reps<br>
 Resistance Band Walking 2 x 20 yards es<br>
 **Hang and Twist Combo**<br>
-&nbsp;&nbsp;&nbsp;Straight-Leg Hang and Twist 1 x 12 reps total<br>
-&nbsp;&nbsp;&nbsp;Hanging Toe-Ups 1 x 16 reps total<br>
+&nbsp;&nbsp;&nbsp;Bent-Leg Hang and Twist 1 x 12 reps total<br>
 &nbsp;&nbsp;&nbsp;Hanging Toe Crossovers 1 x 16 reps total<br>
+&nbsp;&nbsp;&nbsp;Hanging Toe-Ups 1 x 16 reps total<br>
+&nbsp;&nbsp;&nbsp;Windshield Wipers 1 x 12 reps total<br>
 **Rolling Balance Board Combo**<br>
 &nbsp;&nbsp;&nbsp;Balance Board Rolls 1 x 30 seconds<br>
 &nbsp;&nbsp;&nbsp;Balance Board Skater Lunges 1 x 8 reps es<br>

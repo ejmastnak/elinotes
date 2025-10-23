@@ -47,9 +47,10 @@ Dynamic Frontal Bounding 2 x 20 yards es<br>
 Single RDL to Overhead Press on Bosu 2 x 8 reps es<br>
 Single-Leg Squat on Bosu 2 x 5 reps es<br>
 **Hang and Twist Combo**<br>
-&nbsp;&nbsp;&nbsp;Straight-Leg Hang and Twist 1 x 12 reps total<br>
-&nbsp;&nbsp;&nbsp;Hanging Toe-Ups 1 x 16 reps total<br>
+&nbsp;&nbsp;&nbsp;Bent-Leg Hang and Twist 1 x 12 reps total<br>
 &nbsp;&nbsp;&nbsp;Hanging Toe Crossovers 1 x 16 reps total<br>
+&nbsp;&nbsp;&nbsp;Hanging Toe-Ups 1 x 16 reps total<br>
+&nbsp;&nbsp;&nbsp;Windshield Wipers 1 x 12 reps total<br>
 Roadrunners 2 x 30 seconds<br>
 ADD Side Bridge 1 x 30 seconds<br>
 Hurdle Bounding Footwork (see video) 1 x 4 reps<br>
