@@ -10,8 +10,8 @@ hero:
       text: October 2025 tomorrow lists
       link: /tomorrow-lists/2025-10
     - theme: alt
-      text: Gaia roadmap
-      link: /roadmaps/gaia
+      text: Now
+      link: /now
 
 features:
  - title: Roadmaps
