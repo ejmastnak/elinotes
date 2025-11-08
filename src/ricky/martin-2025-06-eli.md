@@ -6,6 +6,8 @@ description: Martin's workouts at Ricky's in June 2025
 
 # Martin at Ricky's in June 2025
 
+(These are Eli's notes, for Martin's notes see [here](./martin-2025-06-martin).)
+
 ## 2025-06-12
 
 - Bike
