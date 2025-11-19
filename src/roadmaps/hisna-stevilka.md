@@ -16,6 +16,7 @@ description: Roadmap for Hisna Številka
 - ~~Validate if tracing directly from paper onto wood without intermediate step of cutting out paper to make template produces workable lines on wood~~
 - ~~Set up box with dedicated supply of wood for sign and backing~~
 - ~~Set up a HisnaŠtevilka project directoy on computer~~
+- ~~Shell script to output millimeter dimensions of a screen region to see how large a design is in meatspace~~
 - Build and inaugurate dedicated table, e.g. OSB panels on sawhorses is fine, on which to do carvings.
 
 ## Website

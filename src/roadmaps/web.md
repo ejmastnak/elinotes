@@ -34,6 +34,7 @@ description: Web roadmap
 - Research and understand ecosystem: full-stack vs headless; API-based vs. Git-based; etc.
 - Research options; decide on a best option for good combination of user experience, dev workflow, simplicity and cost of hosting
 - DecapCMS: create MWE, understand relevant theory, document recipes
+- TinaCMS: create MWE, understand relevant theory, document recipes
 - Real-life use case:
   - jemastnak
   - TMG

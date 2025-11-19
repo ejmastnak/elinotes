@@ -300,6 +300,17 @@ Like frictionless, immediately, so when a wholesale customer asks "how much of X
 - StnOlj wholesale: Nada's massage friend and contacts
 - Research possible wholesale customers for JabSok in LJ: fancy "Slovenian" local-goods restaurants, stores, etc.; come up with a list of e.g. 5-10 possible customers
 
+## Pri Ramšaku rebrand
+
+- Add brand-agnostic updates: "veseli smo vrnjene embalaže", "uporabno najmanj do", "sorta:"
+
+- Rebrand labels for JabSok, JabKis:
+  - Kmetija Gaia -> Pri Ramšaku
+  - SntOlj flower -> 3 apples (ali pač?)
+  - URL updated to point to priramsaku.si
+- Make new labels for Tropinski Kis: use design of JabKis; change name to "tropinski kis"; update description to note production from tropine, gentler qualities, recommended use for drinking
+- Labels for JabKrh, HruKrh: "Jabolčni|Hruškini krhlji"; "sorta:"; "iz visokebelnjega sadovnjaka"; URL to product page
+
 ## Product R&D
 
 Establish new Gaia products with good supporting infrastructure:
