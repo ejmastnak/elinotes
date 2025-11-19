@@ -11,6 +11,7 @@ Roadmaps and plans for a few projects I’m working on:
 - [Gaia](/roadmaps/gaia)
 - [EliPortfolio](/roadmaps/portfolio)
 - [Hišna Številka](/roadmaps/hisna-stevilka)
+- [TV47 attic renovation](/roadmaps/tv47-attic)
 - [TV47](/roadmaps/tv47)
 - [LJ16](/roadmaps/lj16)
 - [Found My Phone?](/roadmaps/foundmyphone)
